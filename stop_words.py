@@ -1,7 +1,10 @@
 # encoding: utf8
 from __future__ import unicode_literals
 
+f = open('data/stop_words.txt', 'r')
+data = f.read()
+f.close()
 
-# stop words as whitespace-separated list
-STOP_WORDS = set("""
-""".split())
+delimiter = '\n'.encode('utf-8')
+
+STOP_WORDS = set(data.split(delimiter))
