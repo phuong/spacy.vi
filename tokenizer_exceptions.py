@@ -6,41 +6,12 @@ from ..language_data import PRON_LEMMA
 
 
 TOKENIZER_EXCEPTIONS = {
-    "Jan.": [
-        {ORTH: "Jan.", LEMMA: "January"}
+    "ko": [
+        {ORTH: "ko", LEMMA: "không"}
     ]
 }
 
-
-# exceptions mapped to a single token containing only ORTH property
-# example: {"string": [{ORTH: "string"}]}
-# converted using strings_to_exc() util
-
-ORTH_ONLY = [
-    "a.",
-    "b.",
-    "c.",
-    "d.",
-    "e.",
-    "f.",
-    "g.",
-    "h.",
-    "i.",
-    "j.",
-    "k.",
-    "l.",
-    "m.",
-    "n.",
-    "o.",
-    "p.",
-    "q.",
-    "r.",
-    "s.",
-    "t.",
-    "u.",
-    "v.",
-    "w.",
-    "x.",
-    "y.",
-    "z."
-]
+orth_char = 'aàảãáạăằẳẵắặâầẩẫấậbcdđeèẻẽéẹêềểễếệfghiìỉĩíịjklmnoòỏõóọôồổỗốộơờởỡớợpqrstuùủũúụưừửữứựvwxyỳỷỹýỵz'
+ORTH_ONLY = []
+for char in orth_char:
+    ORTH_ONLY.append('%s.' % char)
