@@ -2,6 +2,6 @@
 Support Vietnamese for spacy
 
 ## Credits
-* https://spacy.i
+* https://spacy.io
 * https://github.com/stopwords/vietnamese-stopwords
 
