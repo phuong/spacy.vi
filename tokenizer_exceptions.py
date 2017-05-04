@@ -8,6 +8,13 @@ from ..language_data import PRON_LEMMA
 TOKENIZER_EXCEPTIONS = {
     "ko": [
         {ORTH: "ko", LEMMA: "không"}
+    ],
+    "đ/c": [
+        {ORTH: "d/c", LEMA: "địa chỉ"},
+        {ORTH: "đ/c", LEMA: "địa chỉ"}
+    ],
+    "cty": [
+        {ORTH: "cty", LEMA: "công ty"},
     ]
 }
 
