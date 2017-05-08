@@ -5,5 +5,5 @@ Support Vietnamese for spacy
 * https://spacy.io
 * https://github.com/stopwords/vietnamese-stopwords
 * https://www.informatik.uni-leipzig.de/~duc/Dict/
-
+* http://viet.jnlp.org/download-du-lieu-tu-vung-corpus
 
