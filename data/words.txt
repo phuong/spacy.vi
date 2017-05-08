@@ -444,7 +444,6 @@ Ayun Pa
 ấp ủ
 ập
 âu
-âu (ưu)
 Âu Cơ
 âu phục
 âu sầu
@@ -547,15 +546,14 @@ bá
 bá cáo
 bá chủ
 Bá Chương
-Bá Di, Thúc Tề
-Bá Di và Thúc Tề
+Bá Di
 Bá Đa Lộc
 Bá Đạo
 Bá Hiến
 bá hộ
 Bá Khôi
 bá láp
-Bá Nha, Tử Kỳ
+Bá Nha
 bá quan
 bá quyền
 bá tánh
@@ -2000,7 +1998,6 @@ cám cảnh
 cám dỗ
 cám ơn
 cạm bẫy
-can, chi
 can
 can án
 can chi
@@ -2875,7 +2872,6 @@ chia ly
 chìa
 chìa khóa
 chĩa
-chích, đầm
 chích
 Chích Trợ
 chiếc
@@ -3454,7 +3450,7 @@ cổ phần
 cổ phiếu
 Cổ Phúc
 Cổ Thành
-cổ thư, cổ hoạ
+cổ thư
 cổ tích
 Cổ Tiết
 cổ truyền
@@ -3471,7 +3467,6 @@ cố hương
 cố hữu
 cố nhân
 cố quốc
-cố quốc tha hương
 cố sát
 Cố Thiệu
 cố tri
@@ -3523,7 +3518,6 @@ công chúa
 Công chúa Ngũ Long
 công chúng
 công danh
-Công danh chi nữa, ăn rồi ngũ
 công dân
 Công Đa
 công đoàn
@@ -3668,7 +3662,6 @@ cụm
 cun cút
 Cun Pheo
 cùn
-cung, thương
 cung
 Cung bích
 cung cầu
@@ -3680,11 +3673,7 @@ cung nga
 Cung Ngao lầu Thẩn
 cung nữ
 cung phi
-cung Quảng, ả Hằng
 Cung Quảng
-cung Quảng
-Cung Quế xuyên dương
-cung quế xuyên dương
 Cung Thiềm
 cung thiềm
 cung tiêu
@@ -3789,7 +3778,7 @@ cửa sổ
 cửa thoi
 cửa trời
 cửa viên
-cửa Võ (Vũ môn)
+cửa Võ
 cứa
 cựa
 cựa trình
@@ -3894,7 +3883,6 @@ dạ dày
 Dạ đài
 dạ hội
 dạ quang
-dạ Sở, bụng Tần
 dạ vũ
 dạ yến
 dai
@@ -3941,7 +3929,7 @@ dành
 dành dành
 Dành phía tả
 dao
-Dao (dân tộc)
+Dao
 Dao Áo Dài
 dao cạo
 Dao Cóc Mùn
@@ -3970,7 +3958,6 @@ dãy hồi lan
 dạy
 dạy bảo
 dạy tư
-Dặc, Bình
 dăm
 dăm băng
 dằm
@@ -4098,7 +4085,6 @@ dễ thương
 dế
 dệt
 Dgieh
-Di, Tề
 di
 Di
 di bút
@@ -4252,7 +4238,7 @@ dời
 dợn
 dớp
 du
-Du (cửa bể)
+Du
 du côn
 du dương
 du đãng
@@ -4374,7 +4360,7 @@ Dương nhạc
 Dương quan
 Dương Quý Phi
 Dương Tam Kha
-Dương Thành, Hạ Sái
+Dương Thành
 dương tính
 Dương Tố
 dương vật
@@ -4447,7 +4433,7 @@ dứt tình
 đại cát
 đại chiến
 đại chúng
-đại cổ, phú thương
+đại cổ
 đại cương
 Đại Danh
 đại diện
@@ -4459,7 +4445,7 @@ dứt tình
 đại khoa
 đại lục
 đại quan lễ phục
-Đại Than, Đông Triều
+Đại Than
 đại tuần
 đại ý
 đam mê
@@ -4480,7 +4466,7 @@ dứt tình
 đạm bạc
 đan
 Đan Lai-Ly Hà
-Đan Thai (cửa bể)
+Đan Thai
 đan trì
 đàn
 đàn áp
@@ -4500,7 +4486,7 @@ dứt tình
 Đảng
 đảng bộ
 đảng sơn đài
-Đảng Tiến, Đông Sơ
+Đảng Tiến
 đãng bình
 đáng
 đáng kể
@@ -4738,7 +4724,7 @@ dứt tình
 địa chỉ
 địa đạo
 địa điểm
-địa ngục, thiên đường
+địa ngục
 địa ngục
 địa tầng
 địa vị
@@ -4768,8 +4754,8 @@ dứt tình
 đình liệu
 Đình Trầm Hương
 đình tử
-Đình Xá (xã)
-Đình Xuyên (xã)
+Đình Xá
+Đình Xuyên
 đỉnh
 đỉnh chung
 Đỉnh Giáp non thần
@@ -4777,7 +4763,7 @@ dứt tình
 đính
 đính hôn
 định
-Định An (xã)
+Định An
 định bụng
 định cư
 định hướng
@@ -5541,7 +5527,6 @@ gì
 gì gì
 gỉ
 gí
-gia, nương
 gia
 gia ấm
 gia bảo
@@ -5849,7 +5834,6 @@ gianh
 giành
 giành giật
 giảnh
-giao, sách, trùng
 giao
 giao bái
 giao binh
@@ -5978,7 +5962,6 @@ giãy chết
 giãy giụa
 giãy nảy
 Giáy
-Giặc, Bình
 giặc
 giặc biển
 giặc cỏ
@@ -6570,7 +6553,7 @@ hà bá
 hà châu
 Hà đồ Lạc thư
 hà hiếp
-Hà Hoa (Cửa bể)
+Hà Hoa
 hà khắc
 Hà-lăng
 hà mã
@@ -6654,7 +6637,6 @@ hải yến
 hãi
 hái
 hại
-hại nhân, nhân hại
 ham
 ham mê
 ham muốn
@@ -6751,7 +6733,6 @@ hạnh
 hạnh kiểm
 hạnh ngộ
 Hạnh Ngươn
-Hạnh Ngươn (Hạnh Nguyên)
 hạnh phúc
 hao
 hao hụt
@@ -6920,7 +6901,7 @@ hiểm nghèo
 hiếm
 hiên
 Hiên kỳ
-hiên môn (hoặc viên môn)
+hiên môn
 hiên ngang
 hiền
 hiền hòa
@@ -7002,22 +6983,14 @@ hò reo
 hò sơ
 họ
 Họ
-Họ Đào Tể tướng Sơn Trung
-Họ Đào vận bịch
-Họ Đặng chết đói
 họ hàng
 họ Hoàng
-Họ Vương dạy học Phần Hà
 hoa
 Hoa
 hoa bào
 Hoa biểu hồ ly
 Hoa Cái
-hoa cười, ngọc thốt
 Hoa Dương ẩn cư
-Hoa Đàm đuốc tuệ
-hoa đào cười với gió đông
-Hoa đào năm ngoái còn cười gió đông
 hoa đình
 Hoa đường
 Hoa Hâm
@@ -7033,10 +7006,7 @@ hoa lợi
 hoa mỹ
 hoa quả
 hoa quan
-Hoa Thược đỏ trước nhà ngọc trắng
 hoa tiêu
-Hoa Trời bay xuống
-Hoa Tử vi trên ao Phượng Hoàng
 hòa
 hòa bình
 hòa giải
@@ -7070,7 +7040,6 @@ Hóa nhi
 hoá nhi
 hóa thạch
 hóa trang
-Hóa vượn bạc, sâu cát
 họa
 họa báo
 hoạ chí vô đơn
@@ -7086,7 +7055,7 @@ hoài niệm
 hoài vọng
 hoại
 hoại thư
-hoàn, a hoàn, đòi
+hoàn
 hoan hỉ
 hoan hô
 hoan lạc
@@ -7094,7 +7063,6 @@ hoàn
 hoàn cảnh
 hoàn cầu
 hoàn hôn
-hoàn hôn ngự tứ nghênh thân
 hoàn tất
 hoàn thành
 hoàn thiện
@@ -7140,7 +7108,6 @@ hoàng cầm
 Hoàng Cân
 hoàng chủng
 hoàng cung
-Hoàng Diêu, Tử Nguỵ
 Hoàng Diệu
 hoàng đảm
 hoàng đạo
@@ -7378,7 +7345,7 @@ hổ lửa
 hổ mang
 hổ ngươi
 hổ phách
-hổ phụ, lân nhi
+hổ phụ
 hổ phù
 hổ thẹn
 hổ trướng
@@ -7535,7 +7502,7 @@ Hồn mai
 hồn mai
 hồn nhiên
 hồn phách
-hồn quế, phách mai
+hồn quế
 hồn thơ
 hồn vía
 hổn ha hổn hển
@@ -7880,8 +7847,8 @@ huynh thứ
 huynh trưởng
 huỳnh
 huỳnh huỵch
-Huỳnh kim, Dã hạc
-Huỳnh liên, huỳnh bá, huỳnh cầm
+Huỳnh kim
+Huỳnh liên
 huỳnh quang
 huỳnh thạch
 Huỳnh Tịnh Của
@@ -8130,7 +8097,6 @@ ka-ki
 ka li
 ka-li
 Kađai
-Kađai (tiếng)
 Kan-tua
 Kđrao
 ke
@@ -8196,7 +8162,6 @@ Keo loan
 keo loan
 keo sơn
 kèo
-kèo (tiếng cổ)
 kèo cò
 kèo kẹo
 kèo nèo
@@ -8288,7 +8253,7 @@ kết nghĩa
 kết oán
 kết quả
 kết tầng
-kết thái, trương đăng
+kết thái
 kết thúc
 kết tinh
 kết toán
@@ -8438,8 +8403,6 @@ khang ninh
 khang trang
 khảng khái
 kháng
-Kháng (dân tộc)
-Kháng (tiếng)
 Kháng Ái
 kháng án
 Kháng Bung
@@ -8850,7 +8813,6 @@ khóa luận
 khóa sinh
 khóa tay
 khóa trình
-khoá xuân ở đây là khoá kín tuổi xuân, tức cấm cung, tác giả mượn điển cũ để nói lóng rằng
 khoác
 khoác lác
 khoác tay
@@ -9062,10 +9024,9 @@ khống
 khống cáo
 khống chế
 khống chỉ
-Khơ-me (dân tộc)
+Khơ-me
 Khơ-me Krôm
-Khơ-mú (dân tộc)
-Khơ-mú (tiếng)
+Khơ-mú
 khờ
 khờ dại
 khờ khạo
@@ -9093,7 +9054,7 @@ khởi thảo
 khởi thân
 khởi thủy
 khởi xướng
-Khơme (tiếng)
+Khơme
 khớp
 khớp xương
 khu
@@ -9198,7 +9159,7 @@ khuy tết
 khuya
 khuya khoắt
 khuya sớm
-khuyển, ưng
+khuyển
 khuyên
 khuyên bảo
 khuyên can
@@ -9328,7 +9289,7 @@ kiến hiệu
 kiến lập
 kiến lửa
 kiến nghị
-kiến nghĩa bất vi vô dũng dã.( Luận ngữ)
+kiến nghĩa bất vi vô dũng dã
 kiến quốc
 kiến tập
 kiến thiết
@@ -9396,7 +9357,7 @@ kiệu tay
 kim
 Kim
 kim anh
-Kim âu, Hoa Nhai
+Kim âu
 kim bản vị
 kim băng
 kim cải
@@ -9447,8 +9408,7 @@ kín miệng
 kín mít
 kín tiếng
 kinh
-Kinh (dân tộc)
-Kinh (tiếng)
+Kinh
 kinh bang tế thế
 Kinh Châu
 kinh cụ
@@ -9503,7 +9463,6 @@ kình
 kình địch
 kình kịch
 kình ngạc
-kình ngạc Hai giống cá to, dữ, thường được dùng để chỉ những tay kiệt hiệt trong đám giặc giã
 kình nghê
 kình ngư
 kính
@@ -9580,7 +9539,7 @@ kỳ hình
 kỳ kèo
 kỳ khôi
 kỳ khu
-Kỳ La (cửa bể)
+Kỳ La
 kỳ lân
 kỳ mục
 kỳ mưu
@@ -9678,7 +9637,7 @@ lả tả
 Lã Bất Vi
 lã chã
 Lã đường thi tập
-Lã Hậu (Lữ Hậu)
+Lã Hậu
 Lã Thượng
 Lã Vọng
 lá
@@ -9773,7 +9732,7 @@ lại mặt
 lại người
 lại quả
 lại sức
-lại tệ, dân tình
+lại tệ
 lam
 lam chướng
 Lam Điền
@@ -10561,11 +10520,10 @@ lịch sự
 Lịch thành
 lịch thiên văn
 lịch thiệp
-Lịch triều hiến chương loại chí
 lịch trình
 liếc
 liếc mắt
-Liêm, Lạc
+Liêm
 liêm
 liêm chính
 liêm khiết
@@ -10680,7 +10638,6 @@ linh kiện
 linh lợi
 linh mục
 linh nghiệm
-Linh Phụng gặp Ngô Đồng
 Linh quân
 linh sàng
 Linh Sơn
@@ -10792,7 +10749,6 @@ loan
 loan báo
 loan hoàng
 loan phòng
-loan phượng, uyên ương
 loan phượng
 loàn
 loán
@@ -10890,7 +10846,7 @@ long đong
 Long Đồ
 Long Đỗ
 long giá
-Long hạm, Diêu môn
+Long hạm
 long lanh
 long lỏng
 long mạch
@@ -11315,12 +11271,9 @@ Lục Lâm
 lục lọi
 lục lộ
 lục nghệ
-Lục Nhâm, Lục Giáp
-Lục nhâm, Lục giáp
+Lục Nhâm
 lục ố vàng pha
 lục phủ ngũ tạng
-Lục quân, Tử vật
-Lục quân, Tứ vật
 lục quân
 lục soạn
 lục soát
@@ -11426,7 +11379,6 @@ luyện kim
 luyện tập
 luyện tinh
 luyện từ
-Lư, Lạc
 lư
 lư diệp
 lư hương
@@ -11446,7 +11398,7 @@ lữ đoàn
 lữ hành
 Lữ Hậu
 lữ khách
-Lữ Phụng Tiên, Điêu thuyền
+Lữ Phụng Tiên
 lữ quán
 lữ thứ
 lữ trưởng
@@ -11565,7 +11517,7 @@ lưỡng chiết
 lưỡng cực
 lưỡng diện
 lưỡng hợp
-Lưỡng Kiên (núi)
+Lưỡng Kiên
 lưỡng lự
 lưỡng nghi
 lưỡng phân
@@ -11591,7 +11543,7 @@ lưu ban
 lưu cầu
 Lưu Cầu
 lưu chiểu
-Lưu Côn, Tổ Địch
+Lưu Côn
 Lưu Cung
 lưu danh
 lưu dụng
@@ -11616,7 +11568,7 @@ lưu niệm
 lưu niên
 lưu tâm
 lưu tệ
-Lưu Thần, Nguyễn Triệu
+Lưu Thần
 lưu thông
 lưu thủy
 lưu toan
@@ -11780,13 +11732,11 @@ mai
 mai bồng
 mai câu
 mai chước
-mai cốt cách, tuyết tinh thần
 mai danh
 Mai dịch
 mai điểu
 mai gầm
 mai hậu
-mai hình tú bộ
 mai hoa
 Mai huynh
 Mai kha
@@ -11864,7 +11814,6 @@ mang máng
 mang mẻ
 mang ơn
 mang tai
-mang tai mang tiếng
 mang tiếng
 màng
 màng nhện
@@ -11913,13 +11862,11 @@ mạnh bạo
 mạnh dạn
 Mạnh Đức
 mạnh giỏi
-Mạnh hiền còn chịu tiếng Tàng Thương
 mạnh khỏe
 mạnh mẽ
 Mạnh Phủ
 Mạnh Tân chi hội
 mạnh thường quân
-Mạnh Thường Quân
 Mạnh Tông
 mao
 mao dẫn
@@ -12435,7 +12382,7 @@ minh nguyệt
 minh nông
 minh oan
 minh quân
-minh sinh (minh tinh)
+minh sinh
 minh thệ
 minh tinh
 mình
@@ -12583,7 +12530,6 @@ mộc mạc
 mộc nhĩ
 mộc tinh
 Mộc tinh
-mộc vị, thần vì
 mộc vị
 môi
 môi giới
@@ -13281,7 +13227,7 @@ nếp con
 nếp nhà
 nếp sống
 nếp tẻ
-nếp tử, xe châu
+nếp tử
 nết
 nết đất
 nết na
@@ -13289,7 +13235,7 @@ nêu
 nêu gương
 nếu
 nga
-Nga Hoàng, Nữ anh
+Nga Hoàng
 nga văn
 ngà
 ngà ngà
@@ -13938,7 +13884,7 @@ Ngọc Tiêu
 ngọc tím
 ngọc trai
 ngọc và châu
-ngọc xuyến, kim hoa
+ngọc xuyến
 ngoe
 ngoe ngoe
 ngoe ngoé
@@ -14017,7 +13963,6 @@ Ngô Bệ
 ngô công
 Ngô dữ Ngô bào
 ngô đồng
-Ngô Khởi, Chu Mãi Thần
 Ngô Khởi
 ngô nghê
 Ngô Nhân Tịnh
@@ -14696,7 +14641,6 @@ nhảy nhót
 nhảy phượng
 nhảy rào
 nhảy sào
-nhảy sóng, hoá long
 nhảy tót
 nhảy vọt
 nhảy xa
@@ -15395,7 +15339,6 @@ như tuồng
 như vầy
 như vậy
 Như Xuân
-Như ý, Văn Quân
 như ý
 nhừ
 nhừ đòn
@@ -16053,7 +15996,6 @@ nứng
 nựng
 nựng mùi
 nước
-Nước an làm trí, nước loàn làm ngu
 nước bí
 nước bọt
 nước cái
@@ -16313,7 +16255,7 @@ Orăng Glai
 ốm nhom
 ốm o
 ốm yếu
-Ôn, Lý
+Ôn
 ôn
 ôn con
 ôn Công
@@ -16740,7 +16682,7 @@ phẩm phục
 phẩm trật
 phẩm vật
 phẩm vị
-Phần, Du
+Phần
 phân
 phân ban
 phân bào
@@ -17070,7 +17012,7 @@ phoi
 phòi
 phòi bọt mép
 phón g đại
-Phong, Bái
+Phong
 phong
 phong ba
 phong bao
@@ -17345,7 +17287,7 @@ phúc hậu
 phúc hoạ đạo trời
 phúc khảo
 phúc kích
-Phúc Kiến, Chiết Giang
+Phúc Kiến
 Phúc Kiến
 phúc lộc
 phúc lợi
@@ -17679,7 +17621,7 @@ Quang Húc
 Quang Huy
 Quang Hưng
 Quang Khải
-Quang Khánh (chùa)
+Quang Khánh
 Quang Kim
 Quang Lang
 Quang Lịch
@@ -17706,7 +17648,6 @@ Quang Trung
 quang tuyến
 quang vinh
 Quang Vinh
-Quang Võ ngờ lão tướng
 Quang Yên
 quàng
 quàng quạc
@@ -18086,7 +18027,7 @@ qui lai
 qui liệu
 qui mô
 qui phạm
-qui sư, qui phật
+qui sư
 qui tỉnh
 qui trình
 qui ước
@@ -18628,7 +18569,6 @@ râu ba chòm
 râu cằm
 râu hầm
 râu hoa kỳ
-râu hùm, hàm én, mày ngài
 râu mày
 râu mép
 râu quai nón
@@ -18758,7 +18698,6 @@ rít răng
 rịt
 riu riu
 rìu
-Rìu Hoàng Việt, cờ Bạch Mao
 ríu
 ríu lưỡi
 ríu rít
@@ -19119,7 +19058,7 @@ sa sầm
 sa sẩy
 Sa Sơn
 sa sút
-Sa Tắc (cảng)
+Sa Tắc
 sa thạch
 sa thải
 Sa Thầy
@@ -19190,14 +19129,13 @@ Sài Hồ
 sài kinh
 sài lang
 Sài Sơn
-Sài Sơn (chùa)
+Sài Sơn
 sải
 sãi
 sãi chùa
 sãi đò
 sãi vãi
 sái
-sái đậu thành binh
 Sái nữ
 Sái Thuận
 sam
@@ -19315,8 +19253,6 @@ sánh
 sánh bước
 sánh duyên
 sánh đôi
-sánh phượng, cưỡi rồng
-Sánh Phượng
 sánh tày
 sánh vai
 sao
@@ -19857,7 +19793,7 @@ song loan
 Song Lộc
 song mã
 Song mai
-Song ngư (núi)
+Song Ngư
 song phi
 Song Phú
 Song Phụng
@@ -20519,7 +20455,6 @@ Sỹ Hành
 Sỹ Nguyên
 Sỹ nhã
 T34
-Tạ, Vương, Nguyễn, Đào
 ta
 Ta Ma
 ta thán
@@ -20686,7 +20621,6 @@ tài sắc
 tài tình
 tài trai
 tài trí
-tài tử, danh công
 tài tử
 Tài Vân
 tài vụ
@@ -21140,7 +21074,6 @@ tắt nghỉ
 tắt thở
 tắt tiếng
 tấc
-tấc cỏ, ba xuân
 tấc vàng
 tâm
 tâm bệnh
@@ -21419,7 +21352,7 @@ Tân Yên
 tần
 Tần
 tần ngần
-Tần nữ, Yên Cơ
+Tần nữ
 tần phiền
 tần số
 tần tảo
@@ -21691,7 +21624,6 @@ thả mồi
 thả rong
 thá
 thác
-thác (tiếng cổ)
 Thác Bà
 Thác Mã
 Thác Mơ
@@ -21884,7 +21816,7 @@ tham số
 Tham Sơn
 tham tá
 tham tài
-tham tán, đổng binh
+tham tán
 tham tàn
 tham tán
 tham tang
@@ -22006,7 +21938,6 @@ Thanh Khai
 thanh khâm
 Thanh Khê
 thanh khí
-thanh khí tương cờ
 thanh khiết
 Thanh Khương
 Thanh Kim
@@ -22078,7 +22009,6 @@ thanh thản
 thanh thanh
 thanh thảnh
 thanh thiên
-thanh thiên bạch nhật
 Thanh Thịnh
 thanh thoát
 thanh thủy
@@ -22099,7 +22029,6 @@ Thanh Tuyền
 Thanh Tương
 Thanh Tường
 Thanh Uyên
-thanh ứng khí cầu
 Thanh Văn
 thanh vắng
 thanh vân
@@ -22132,8 +22061,6 @@ Thành Đông
 thành đồng
 thành gia
 Thành Gia Định
-Thành hạ yêu minh
-thành hạ yêu minh
 Thành Hải
 thành hình
 Thành Hoà
@@ -22184,7 +22111,6 @@ thành tích
 Thành Tiến
 thành tín
 thành toán
-thành toán miếu đường
 Thành Trai
 thành trì
 Thành Trị
@@ -22211,7 +22137,7 @@ thánh giá
 Thánh Gióng
 thánh hiền
 thánh nhân
-Thánh nữ (đền)
+Thánh nữ
 thánh sống
 thánh sư
 thánh thể
@@ -22342,7 +22268,6 @@ thằng
 thằng bờm
 thằng cha
 thằng thúc
-Thằng xe cho nợ
 thẳng
 thẳng băng
 thẳng cánh
@@ -22464,7 +22389,6 @@ thân nhân
 Thân Nhân Trung
 thân oan
 thân phận
-thân phận ngoại giao
 thân phụ
 thân quyền
 thân sĩ
@@ -22545,8 +22469,6 @@ thập phân
 thập phương
 thập thành
 thập thò
-Thập toàn, bát vị
-Thập toàn, Bát vị
 thập toàn
 thập tự
 thất
@@ -22907,7 +22829,6 @@ thiên cầu
 thiên chúa
 Thiên chúa
 thiên chúa giáo
-Thiên chúa giáo
 thiên cổ
 thiên cơ
 thiên cung
@@ -22933,7 +22854,6 @@ Thiên Hán
 Thiên Hậu
 Thiên hậu
 thiên hình vạn trạng
-Thiên hình vạn trạng
 thiên hương
 thiên hướng
 thiên khai
@@ -22946,7 +22866,6 @@ Thiên Lộc
 thiên lôi
 thiên lý
 thiên ma bách chiết
-Thiên ma bách chiết
 thiên mệnh
 thiên nga
 thiên nhan
@@ -22981,8 +22900,7 @@ thiên vàn
 thiên văn
 thiên văn học
 thiên vị
-Thiên Vực (sông)
-thiên vương tinh
+Thiên Vực
 Thiên vương tinh
 thiền
 thiền gia
@@ -23181,7 +23099,6 @@ tho
 thò
 thò lò
 thỏ
-thỏ bạc, ác vàng
 Thỏ lạnh
 thỏ thẻ
 thó
@@ -23960,7 +23877,7 @@ thuỷ phủ
 Thuỷ Phương
 thủy quân
 thủy quân lục chiến
-thuỷ quốc, vân hương
+thuỷ quốc
 thủy sản
 Thuỷ Sơn
 thủy sư
@@ -23975,7 +23892,7 @@ Thủy thiên nhất sắc
 thủy thổ
 thủy thủ
 thủy tiên
-Thủy Tiên (đầm)
+Thủy Tiên
 thủy tinh
 Thuỷ tinh
 thủy tinh dịch
@@ -24235,7 +24152,7 @@ thương canh
 thương chiến
 thương chính
 thương cục
-thương cung chi điểu, kiến khúc mộc nhi cao phi
+thương cung chi điểu
 thương điếm
 thương đoàn
 thương gia
@@ -24378,7 +24295,6 @@ thượng tá
 thượng tân
 Thượng Tân
 thượng tầng
-thượng tầng kiến trúc
 thượng thanh
 Thượng Thanh
 thượng thẩm
@@ -26087,7 +26003,7 @@ trấn ngự
 Trấn Ninh
 trấn phong
 trấn phục
-Trấn Quốc (chùa)
+Trấn Quốc
 trấn thủ
 trấn tĩnh
 trấn trạch
@@ -26198,7 +26114,6 @@ trêu tức
 trếu tráo
 trệu
 trệu trạo
-Tri âm, tri kỹ
 tri âm
 tri ân
 tri châu
@@ -26952,7 +26867,7 @@ truyền bảo
 truyền cảm
 truyền đạo
 truyền đạt
-Truyền Đăng (núi)
+Truyền Đăng
 truyền đơn
 truyền giáo
 truyền hình
@@ -26972,7 +26887,6 @@ truyện
 truyện dài
 truyện ký
 truyện ngắn
-truyện nhi chân, giả
 truyện phim
 trừ
 trừ bì
@@ -27115,7 +27029,7 @@ Trường Khánh
 trường kỳ
 trường kỷ
 Trường Lạc
-Trường Lang (Cảng)
+Trường Lang
 Trường Lâm
 Trường Long
 Trường Long Hoà
@@ -27124,7 +27038,7 @@ Trường Minh
 Trường Nhi
 trường ốc
 trường phái
-trường quan, cống sĩ
+trường quan
 trường qui
 trường quy
 Trường Sa
@@ -27175,7 +27089,6 @@ trướng loan
 trướng mai
 trượng
 trượng phu
-TrườngỀ Lộc
 trượt
 trượt băng
 trượt tuyết
@@ -27199,7 +27112,7 @@ Tu Lý
 tu mi
 Tu Mơ Rông
 tu nghiệp
-tu nhân tích đức
+tu nhân
 Tu Nốp
 tu sĩ
 tu sửa
@@ -27236,11 +27149,8 @@ tủ sắt
 tủ thuốc
 tú
 Tú An
-tú các, lan phòng
-tú các hương khuê
 tú cầu
 Tú Đoạn
-tú khẩu cẩm tâm (miệng thêu, lòng gấm)
 tú khí
 Tú Mịch
 Tú Nang
@@ -27300,7 +27210,6 @@ tuần phu
 tuần phủ
 tuần san
 tuần thú
-tuần thú đại thiên
 tuần tiết
 tuần tiễu
 tuần tra
@@ -27334,7 +27243,6 @@ túc nhân
 túc nho
 túc số
 túc trái
-túc trái tiền oan
 túc trực
 Túc Trưng
 tục
@@ -27414,7 +27322,6 @@ tùng thu
 tùng thư
 tùng tiệm
 tùng tùng
-Tùng Tuyết đạo nhân
 Tùng Tử
 Tùng Vài
 tùng xẻo
@@ -27710,7 +27617,6 @@ Tử Kiều
 Tử Kính
 Tử Lăng
 Tử Long
-Tử Lộ, Nhan Uyên
 tử lộ
 Tử Lộ
 tử lý
@@ -28051,7 +27957,6 @@ tỷ trọng
 tý
 tỵ
 tỵ tổ
-U, Lệ
 u
 U
 u ám
@@ -28206,12 +28111,10 @@ van xin
 vãn
 vãn hồi
 ván
-ván đã đóng thuyền
 vạn
 Vạn An
 Vạn bệnh hồi xuân
 Vạn Bình
-vạn dân tản, vạn dân y
 Vạn Điểm
 Vạn Giã
 Vạn Hạnh
@@ -28220,7 +28123,6 @@ Vạn Hưng
 Vạn Hương
 Vạn Khánh
 Vạn Kiếp
-Vạn Kiếp tông bí truyền thư
 Vạn Kim
 Vạn linh
 Vạn Linh
@@ -28591,7 +28493,7 @@ Việt Vinh
 Việt Xuyên
 Việt Yên
 vịn
-vinh, khô, đắc, táng
+vinh
 Vinh
 Vinh An
 Vinh Bình Bắc
@@ -28887,7 +28789,6 @@ Vũ Lễ
 Vũ Linh
 Vũ Loan
 Vũ Môn
-vũ môn ba đợt
 Vũ Mộng Nguyên
 Vũ Muộn
 Vũ Nghĩa Chi
@@ -29308,7 +29209,6 @@ Xuân La
 Xuân Lạc
 Xuân Lai
 Xuân Lam
-xuân lan, thu cúc
 Xuân Lãnh
 Xuân Lâm
 Xuân Lập
@@ -29467,9 +29367,7 @@ y
 Y
 Y Can
 Y Doãn
-Y học, Thọ thế, Đông y
 y học
-Y học nhập môn
 y khoa
 Y Lăng
 Y-lơng
