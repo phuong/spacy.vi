@@ -10,7 +10,7 @@ import bz2
 import ujson
 from preshed.counter import PreshCounter
 from joblib import Parallel, delayed
-from pathlib import Path
+from pathlib import Path, PurePosixPath
 
 from spacy.en import English
 from spacy.strings import StringStore
@@ -21,13 +21,16 @@ import spacy.util
 
 
 def iter_comments(loc):
-    with bz2.BZ2File(loc) as file_:
+    if isinstance(loc, PurePosixPath):
+        loc = loc.as_posix()
+    with open(loc, 'r', 'utf8') as file_:
+        print(len(file_))
         for line in file_:
-            yield ujson.loads(line)
+            #yield ujson.loads(line)
+            yield {}
 
 
 def count_freqs(Language, input_loc, output_loc):
-    print(output_loc)
     tokenizer = Language.Defaults.create_tokenizer()
 
     counts = PreshCounter()
@@ -79,8 +82,10 @@ def main(lang, input_loc, freqs_dir, output_loc, n_jobs=2, skip_existing=False):
         filename = input_path.parts[-1]
         output_path = freqs_dir / filename.replace('bz2', 'freq')
         outputs.append(output_path)
+        print(output_path)
         if not output_path.exists() or not skip_existing:
             tasks.append((Language, input_path, output_path))
+            break
 
     if tasks:
         parallelize(count_freqs, tasks, n_jobs)

@@ -14,6 +14,10 @@ from ..language_data import update_exc, strings_to_exc
 from .tag_map import TAG_MAP
 from .stop_words import STOP_WORDS
 from .tokenizer_exceptions import TOKENIZER_EXCEPTIONS, ORTH_ONLY
+from .lemmatizer import RULES as LEMMA_RULES
+from .lemmatizer import INDEX as LEMMA_INDEX
+from .lemmatizer import EXC as LEMMA_EXC
+
 
 
 TOKENIZER_EXCEPTIONS = dict(TOKENIZER_EXCEPTIONS)
@@ -27,4 +31,4 @@ update_exc(TOKENIZER_EXCEPTIONS, strings_to_exc(base.EMOTICONS))
 
 
 # export
-__all__ = ["TOKENIZER_EXCEPTIONS", "TAG_MAP", "STOP_WORDS"]
+__all__ = ["TOKENIZER_EXCEPTIONS", "TAG_MAP", "STOP_WORDS", "LEMMA_RULES", "LEMMA_INDEX", "LEMMA_EXC"]
