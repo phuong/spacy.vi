@@ -14,7 +14,7 @@ class Vietnamese(Language):
 
     class Defaults(Language.Defaults):
         lex_attr_getters = dict(Language.Defaults.lex_attr_getters)
-        lex_attr_getters[LANG] = lambda text: 'xx'
+        lex_attr_getters[LANG] = lambda text: 'vi'
 
         tokenizer_exceptions = TOKENIZER_EXCEPTIONS
         tag_map = TAG_MAP

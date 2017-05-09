@@ -87,4 +87,4 @@ ENV/
 
 # Rope project settings
 .ropeproject
-data/corpus.txt
+data/corpus/corpus.txt

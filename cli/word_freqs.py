@@ -13,7 +13,6 @@ from joblib import Parallel, delayed
 from pathlib import Path
 
 from spacy.en import English
-from spacy.vi import Vietnamese
 from spacy.strings import StringStore
 from spacy.attrs import ORTH
 from spacy.tokenizer import Tokenizer
@@ -60,7 +59,6 @@ def merge_counts(locs, out_loc):
         for orth, count in counts:
             string = string_map[orth]
             file_.write('%d\t%s\n' % (count, string))
-
 
 @plac.annotations(
     lang=("Language to tokenize", "positional"),
