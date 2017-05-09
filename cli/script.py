@@ -19,4 +19,22 @@ def clean_vi_dictionary():
     write.close()
 
 
-clean_vi_dictionary()
+url = "http://tratu.coviet.vn/hoc-tieng-anh/tu-dien/lac-viet/V-V/%s.html"
+import urllib
+
+
+def find_word_type():
+    file = open('data/words.txt', 'r')
+    raw_data = file.read()
+    file.close()
+    counter = 0
+    for word in raw_data.split('\n'):
+        counter += 1
+        if counter < 3240:
+            continue
+        if counter > 3251:
+            break
+        print(urllib.quote(word))
+
+
+find_word_type()
