@@ -1,0 +1,262 @@
+a;NOUN,VERB
+A Di;NOUN
+A Di Đà kinh;NOUN
+A Di Đà Phật;NOUN
+a dua;VERB
+a hoàn;NOUN
+a phiến;NOUN
+a tòng;VERB
+à;VERB,ADV
+ả;NOUN
+ả đào;NOUN
+á;NOUN
+á khẩu;VERB
+á khôi;NOUN
+á kim;NOUN
+ạ;ADV
+ác;NOUN,ADJ
+ác cảm;NOUN
+ác chiến;VERB
+ác mộng;NOUN
+ác nghiệt;ADJ
+ác tà;NOUN
+ác tâm;NOUN
+ác thú;NOUN
+ác vàng;NOUN
+ách;NOUN,VERB
+ADN;NOUN
+ai;PRONN
+ai ai;PRONN
+ai điếu;NOUN
+ai oán;ADJ
+ải;NOUN,ADJ,VERB
+ải quan;NOUN
+ái;VERB
+ái ân;NOUN,VERB
+ái hữu;NOUN
+ái khanh;VERB
+ái lực;NOUN
+ái mộ;VERB
+ái nam ái nữ;ADJ
+ái ngại;VERB
+ái phi;NOUN
+ái quốc;VERB
+ái tình;NOUN
+AIDS;NOUN
+am;NOUN
+AM;NOUN
+am hiểu;VERB
+am mây;NOUN
+ảm đạm;ADJ
+ám;NOUN,VERB
+ám ảnh;VERB,NOUN
+ám chỉ;VERB
+ám hại;VERB
+ám hiệu;NOUN
+ám muội;ADJ
+ám sát;VERB
+ám tả;NOUN
+ám thị;VERB
+an;ADJ
+an bài;VERB
+An Bài;VERB
+an biên;VERB
+An Biên;VERB
+An Bình;NOUN
+an cư;VERB
+An Cư;VERB
+An Dân;VERB
+an dưỡng;VERB
+An Hảo;ADJ
+An Khang;ADJ
+An Lạc;ADJ
+an nghỉ;VERB
+an ninh;ADJ,NOUN
+An Ninh;ADJ,NOUN
+an phận;VERB
+an táng;VERB
+an tâm;ADJ
+An Tịnh;ADJ
+an toàn;ADJ,VERB
+An Toàn;ADJ,VERB
+an ủi;VERB
+an vị;VERB
+án;NOUN,VERB
+án mạng;NOUN
+án ngữ;VERB
+án phí;NOUN
+án sát;NOUN
+án thư;NOUN
+án tuyết;NOUN
+ang;NOUN
+áng;NOUN,VERB
+anh;NOUN,PRONN
+anh ánh;ADJ
+anh dũng;ADJ
+Anh Dũng;ADJ
+anh đào;NOUN
+anh em;NOUN
+anh hào;NOUN
+anh hùng;NOUN,ADJ
+anh linh;NOUN,ADJ
+anh tài;NOUN
+anh thư;NOUN
+anh tuấn;ADJ
+ảnh;NOUN,PRONN
+ảnh ảo;NOUN
+ảnh hưởng;NOUN,VERB
+ánh;NOUN,ADJ
+ánh sáng;NOUN
+ao;NOUN,VERB
+ao ước;VERB
+ào;VERB
+ào ào;ADJ
+ào ạt;ADJ
+ảo;ADJ
+ảo ảnh;NOUN
+ảo giác;NOUN
+ảo mộng;NOUN
+ảo não;ADJ
+ảo thuật;NOUN
+ảo tưởng;NOUN
+ảo tượng;NOUN
+áo;NOUN
+áo choàng;NOUN
+áo dài;NOUN
+áo giáp;NOUN
+áo gối;NOUN
+áo mưa;NOUN
+áo quan;NOUN
+áo quần;NOUN
+áo xanh;NOUN
+áp;VERB,PREP
+áp bức;VERB
+áp dụng;VERB
+áp đảo;VERB
+áp đặt;VERB
+áp giải;VERB
+áp lực;NOUN
+áp suất;NOUN
+áp tải;VERB
+áp tới;VERB
+át;NOUN,VERB
+au;ADJ
+Au;NOUN
+áy;ADJ
+áy náy;VERB
+ăm ắp;ADJ
+ẵm;VERB
+ăn;VERB
+ăn bám;VERB
+ăn bận;VERB
+ăn bốc;VERB
+ăn bớt;VERB
+ăn cánh;VERB
+ăn cắp;VERB
+ăn chay;VERB
+ăn chắc;VERB
+ăn chơi;VERB,ADJ
+ăn cỗ;VERB
+ăn cưới;VERB
+ăn cướp;VERB
+ăn giải;VERB
+ăn gian;VERB
+ăn giỗ;VERB
+ăn hại;VERB
+ăn hiếp;VERB
+ăn hỏi;VERB
+ăn hối lộ;VERB
+ăn không;VERB
+ăn khớp;VERB,ADJ
+ăn kiêng;VERB
+ăn lãi;VERB
+ăn lương;VERB
+ăn mày;VERB,NOUN
+ăn nằm;VERB
+ăn năn;VERB
+ăn nhịp;VERB
+ăn nói;VERB
+ăn ở;VERB
+ăn sống;VERB
+ăn sương;VERB
+ăn tạp;VERB,ADJ
+ăn tết;VERB
+ăn tham;ADJ
+ăn thề;VERB
+ăn thua;VERB
+ăn thừa;VERB
+ăn tiệc;VERB
+ăn tiền;VERB
+ăn tiêu;VERB
+ăn trộm;VERB
+ăn uống;VERB
+ăn vạ;VERB
+ăn vụng;VERB
+ăn xổi;VERB
+ăn ý;VERB
+ắp;ADJ
+âm;NOUN,ADJ,VERB
+âm ấm;ADJ
+âm công;NOUN
+âm cung;NOUN
+âm cực;NOUN
+âm dương;NOUN,ADJ
+âm đạo;NOUN
+âm điệu;NOUN
+âm hạch;NOUN
+âm hao;NOUN
+âm hộ;NOUN
+âm hồn;NOUN
+âm hưởng;NOUN
+âm ỉ;ADJ
+âm khí;NOUN
+âm lượng;NOUN
+âm mưu;NOUN
+âm nang;NOUN
+âm nhạc;NOUN
+âm phong;NOUN
+âm phủ;NOUN
+âm sắc;NOUN
+âm thầm;ADJ
+âm thoa;NOUN
+âm tín;NOUN
+âm u;ADJ
+âm vận;NOUN
+ầm;ADJ
+ầm ĩ;ADJ
+ẩm;ADJ
+ẩm thấp;ADJ
+ẩm thực;VERB
+ấm;NOUN,ADJ
+ấm áp;ADJ
+ấm cúng;ADJ
+ấm lạnh;ADJ
+ấm no;ADJ
+ân;NOUN,ADJ
+ân cần;ADJ
+ân gia;NOUN
+ân hận;VERB,ADJ
+ân huệ;NOUN
+ân nghĩa;NOUN
+ân nhân;NOUN
+ân nhi;NOUN
+ân oán;NOUN
+ân sư;NOUN
+ân tình;NOUN,ADJ
+ân xá;VERB
+ẩn;VERB,NOUN
+ẩn náu;VERB
+ẩn ý;NOUN
+ấn;NOUN,VERB
+ấn định;VERB
+ấn hành;VERB
+ấn loát;NOUN
+ấn quán;NOUN
+ấn tín;NOUN
+ấn tượng;NOUN
+ấp;NOUN,VERB
+ấp ủ;VERB
+ập;VERB
+âu;NOUN,VERB
+âu phục;NOUN
+âu sầu;ADJ
