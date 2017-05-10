@@ -1,0 +1,27 @@
+càng;NOUN
+cảng;NOUN
+cáng;NOUN,VERB
+cáng đáng;VERB
+canh;NOUN,VERB
+canh cánh;ADJ
+canh gác;VERB
+canh giữ;VERB
+canh khuya;NOUN
+canh tác;VERB
+canh tân;VERB
+canh thiếp;NOUN
+cành;NOUN,ADJ
+cảnh;NOUN
+cảnh báo;VERB
+cảnh binh;NOUN
+cảnh cáo;VERB
+cảnh giác;VERB
+cảnh huống;NOUN
+cảnh ngộ;NOUN
+cảnh sát;NOUN
+cảnh sắc;NOUN
+cảnh tỉnh;VERB
+cảnh tượng;NOUN
+cánh;NOUN
+cánh bèo;NOUN
+cánh cửa;NOUN
