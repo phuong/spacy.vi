@@ -1,6 +1,10 @@
-#
-# Copyright (C) 2015 recruiting.ai
-#
-# Release: 1.0
-# @link olivia.recruiting.ai
-#
+DEFAULT_DELIMITER = '\n'.encode('utf-8')
+
+
+def from_file(path, delimiter=DEFAULT_DELIMITER):
+    file = open(path, 'r')
+    data = file.read()
+    file.close()
+    if delimiter:
+        return data.rstrip().split(delimiter)
+    return data
