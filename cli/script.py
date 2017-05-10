@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 def clean_vi_dictionary():
     write = open('data/words2.txt', 'w')
 
@@ -19,22 +21,56 @@ def clean_vi_dictionary():
     write.close()
 
 
-url = "http://tratu.coviet.vn/hoc-tieng-anh/tu-dien/lac-viet/V-V/%s.html"
+###########################################################################
+
+SOURCE_URL = "http://tratu.coviet.vn/hoc-tieng-anh/tu-dien/lac-viet/V-V/%s.html"
 import urllib
+import requests
+from lxml import html
+
+NOUN = u'danh từ'
+ADJ = u'tính từ'
+ADV = u'trạng từ'
+VERB = u'động từ'
+PRONN = u'đại từ'
+CONJ = u'kết từ'
+PREP = u'giới từ'
+
+LEMMA = [NOUN, ADJ, ADV, VERB, PRONN, CONJ, PREP]
+LEMMAP = {
+    NOUN: 'NOUN',
+    ADJ: 'ADJ',
+    ADV: 'ADV',
+    VERB: 'VERB',
+    PRONN: 'PRONN',
+    CONJ: 'CONJ',
+    PREP: 'PREP'
+}
 
 
-def find_word_type():
-    file = open('data/words.txt', 'r')
-    raw_data = file.read()
-    file.close()
+def find_type_of_word(word):
+    url = SOURCE_URL % urllib.quote(word.encode('utf8'))
+    req = requests.get(url)
+    tree = html.fromstring(req.content)
+    ub = tree.xpath('//div[@class="ub"]')
+    for lemma in ub:
+        lemma = lemma.text_content().strip()
+        if lemma in LEMMA:
+            yield LEMMAP[lemma]
+
+
+def build_word_type_data():
+    # file = open('data/words.txt', 'r')
+    # raw_data = file.read()
+    # file.close()
+    raw_data = u"""hoặc|một|nếu|bởi vì"""
     counter = 0
-    for word in raw_data.split('\n'):
-        counter += 1
-        if counter < 3240:
-            continue
-        if counter > 3251:
-            break
-        print(urllib.quote(word))
+
+    for word in raw_data.split('|'):
+        w = find_type_of_word(word)
+        print(word, "=")
+        for _w in w:
+            print(_w)
 
 
-find_word_type()
+build_word_type_data()
