@@ -16863,3 +16863,4044 @@ thiếu nhi;NOUN
 thiếu niên;NOUN
 thiếu nữ;NOUN
 thiếu phó;NOUN
+thiếu phụ;NOUN
+thiếu sinh quân;NOUN
+thiếu sót;NOUN
+thiếu tá;NOUN
+thiếu thời;NOUN
+thiếu tướng;NOUN
+thím;NOUN
+thìn;NOUN,VERB
+thinh;ADV
+thình;ADJ
+thình thịch;ADJ
+thình thình;ADV
+thỉnh;VERB
+thỉnh an;VERB
+thỉnh cầu;VERB
+thỉnh giáo;VERB
+thỉnh kinh;VERB
+thỉnh mệnh;VERB
+thỉnh nguyện;VERB
+thỉnh thị;VERB
+thính;NOUN,ADJ
+thính giả;NOUN
+thính giác;NOUN
+thính mũi;ADJ
+thính tai;ADJ
+thịnh;ADJ
+thịnh danh;NOUN
+thịnh đạt;ADJ
+thịnh đức;NOUN
+thịnh hành;ADJ
+thịnh nộ;VERB
+thịnh soạn;ADJ
+thịnh suy;VERB
+thịnh thế;NOUN
+thịnh tình;VERB
+thịnh trị;ADJ
+thịnh vượng;ADJ
+thịnh ý;NOUN
+thịt;NOUN,VERB,ADJ
+thịt thà;NOUN
+thiu;VERB,ADJ
+thiu thiu;VERB
+thiu thối;ADJ
+tho;VERB
+thò;VERB
+thò lò;NOUN,VERB
+thỏ;NOUN
+thỏ thẻ;ADJ
+thó;VERB
+thọ;VERB,NOUN
+thọ chung;VERB
+thọ đường;NOUN
+thọ mệnh;NOUN
+thoa;NOUN
+thoai thoải;ADJ
+thoải mái;ADJ
+thoái;VERB
+thoái bộ;VERB
+thoái ngũ;VERB
+thoái nhiệt;NOUN
+thoái thác;VERB
+thoái trào;VERB
+thoái vị;VERB
+thoán đoạt;VERB
+thoang thoảng;VERB
+thoang thoáng;ADV
+thoảng;VERB
+thoáng;NOUN,VERB,ADJ
+thoáng khí;ADJ
+thoát;VERB
+thoát ly;VERB
+thoát nạn;VERB
+thoát nợ;NOUN
+thoát thai;VERB
+thoát thân;VERB
+thoát tục;VERB
+thoát xác;VERB
+thoạt đầu;NOUN
+thoạt tiên;NOUN
+thoăn thoắt;ADJ
+thoắng;ADJ
+thoắt;ADJ
+thoắt thoắt;ADV
+thóc;NOUN
+thóc gạo;NOUN
+thóc lúa;NOUN
+thóc mách;VERB
+thọc;VERB
+thoi;NOUN,VERB
+thoi thóp;VERB,ADJ
+thoi thót;ADV
+thòi;VERB
+thòi lòi;VERB
+thỏi;NOUN
+thói;NOUN
+thói đời;NOUN
+thói phép;NOUN
+thói quen;NOUN
+thói thường;NOUN
+thói tục;NOUN
+thom thóp;VERB
+thòm thèm;VERB
+thon;ADJ
+thon thon;ADJ
+thon thót;VERB
+thong dong;ADJ
+thong manh;ADJ
+thong thả;ADJ
+thòng;VERB
+thòng lọng;NOUN
+thõng;NOUN,VERB
+thõng thẹo;ADJ
+thóp;NOUN
+thót;VERB
+thọt;ADJ
+thô;ADJ
+thô bạo;ADJ
+thô bỉ;ADJ
+thô kệch;ADJ
+thô lậu;ADJ
+thô lỗ;ADJ
+thô sơ;ADJ
+thô thiển;ADJ
+thô tục;ADJ
+thồ;NOUN,VERB
+thổ;NOUN,VERB
+thổ âm;NOUN
+thổ công;NOUN
+thổ dân;NOUN
+thổ địa;NOUN
+thổ hào;NOUN
+thổ huyết;VERB
+thổ lộ;VERB
+thổ mộ;NOUN
+thổ mộc;NOUN
+thổ nghi;NOUN
+thổ ngơi;NOUN
+thổ ngữ;NOUN
+thổ nhưỡng;NOUN
+thổ nhưỡng học;NOUN
+thổ phỉ;NOUN
+thổ phục linh;NOUN
+thổ quan;NOUN
+Thổ quan;NOUN
+thổ sản;NOUN
+thổ tả;NOUN,ADJ
+thổ tinh;NOUN
+Thổ tinh;NOUN
+thổ trạch;NOUN
+thổ trước;NOUN
+thổ tù;NOUN
+Thổ tù;NOUN
+thốc;VERB
+thôi;NOUN,VERB,ADV
+thôi miên;VERB
+thôi thôi;ADV
+thôi thối;ADJ
+thôi thúc;VERB
+thôi tra;VERB
+thồi;NOUN
+thổi;VERB,VERB
+thổi nấu;VERB
+thổi phồng;VERB
+thối;VERB,ADJ
+thối hoắc;ADJ
+thối hoăng;ADJ
+thối mồm;ADJ
+thối nát;ADJ
+thối om;ADJ
+thối tai;NOUN
+thối tha;ADJ
+thối thây;ADJ
+thồm lồm;NOUN
+thôn;NOUN
+thôn dã;NOUN
+thôn đội;NOUN
+thôn nữ;NOUN
+thôn ổ;NOUN
+thôn quê;NOUN
+thôn tính;VERB
+thôn trang;NOUN
+thôn trưởng;NOUN
+thôn xã;NOUN
+thôn xóm;NOUN
+thồn;VERB
+thổn thức;VERB
+thỗn thện;ADJ
+thốn;NOUN,VERB
+thộn;ADJ
+thông;NOUN,VERB
+thông báo;VERB,NOUN
+thông bệnh;NOUN
+thông cảm;VERB
+thông cáo;NOUN
+thông dâm;VERB
+thông dịch;VERB
+thông dụng;ADJ
+thông đạt;VERB
+thông điện;NOUN
+thông điệp;NOUN
+thông đồng;VERB
+thông gia;NOUN
+thông hành;NOUN
+thông hiểu;VERB
+thông hiệu;NOUN
+thông hơi;ADJ
+thông huyền;VERB
+thông khí;ADJ
+thông lại;NOUN
+thông lệ;NOUN
+thông lệnh;NOUN
+thông lưng;NOUN
+thông minh;ADJ
+thông mưu;VERB
+thông nghĩa;NOUN,VERB
+thông ngôn;VERB,NOUN
+thông phán;NOUN
+thông phong;NOUN
+thông qua;VERB
+thông số;NOUN
+thông suốt;VERB
+thông sử;NOUN
+thông sự;NOUN
+thông sức;VERB
+thông tầm;ADJ
+thông tấn xã;NOUN
+thông thái;ADJ
+thông thạo;VERB
+thông thống;ADJ
+thông thuộc;VERB
+thông thương;VERB
+thông thường;ADJ
+thông tin;VERB,NOUN
+thông tỏ;VERB
+thông tri;VERB,NOUN
+thông tục;ADJ
+thông tuệ;ADJ
+thông tư;NOUN,VERB
+thông ước;ADJ
+thống;NOUN
+thống chế;NOUN
+thống đốc;NOUN
+thống kê học;NOUN
+thống khổ;ADJ
+thống lĩnh;VERB
+thống mạ;VERB
+thống nhất;VERB,ADJ
+thống soái;NOUN
+thống suất;VERB
+thống sứ;NOUN
+thống thiết;ADJ
+thống trị;VERB
+thống tướng;NOUN
+thộp;VERB
+thộp ngực;VERB
+thốt;VERB
+thốt nốt;NOUN
+thơ;NOUN,ADJ
+thơ ấu;ADJ
+thơ dại;ADJ
+thơ ngây;ADJ
+thơ thẩn;ADJ
+thờ;VERB
+thờ cúng;VERB
+thờ ơ;ADJ
+thờ phụng;VERB
+thờ thẫn;ADJ
+thờ vọng;VERB
+thở;VERB
+thở dài;VERB
+thở dốc;VERB
+thở hồng hộc;VERB
+thở than;VERB
+thớ;NOUN
+thớ lợ;ADJ
+thợ;NOUN
+thợ bạc;NOUN
+thợ bạn;NOUN
+thợ cả;NOUN
+thợ cạo;NOUN
+thợ đấu;NOUN
+thợ điện;NOUN
+thợ hồ;NOUN
+thợ kèn;NOUN
+thợ mã;NOUN
+thợ máy;NOUN
+thợ mộc;NOUN
+thợ nề;NOUN
+thợ ngôi;NOUN
+thợ nguội;NOUN
+thợ rào;NOUN
+thợ rèn;NOUN
+thợ sơn;NOUN
+thợ thơ;NOUN
+thợ thuyền;NOUN
+thợ trời;NOUN
+thợ xẻ;NOUN
+thời;NOUN,VERB
+thời bệnh;NOUN
+thời bình;NOUN
+thời buổi;NOUN
+thời chiến;NOUN
+thời cơ;NOUN
+thời cục;NOUN
+thời cuộc;NOUN
+thời đại;NOUN,ADJ
+thời đàm;VERB
+thời điểm;NOUN
+thời giá;NOUN
+thời gian;NOUN
+thời gian biểu;NOUN
+thời hạn;NOUN
+thời hiệu;NOUN
+thời khắc;NOUN
+thời khắc biểu;NOUN
+thời khí;NOUN
+thời loạn;NOUN
+thời luận;NOUN
+thời nghi;NOUN
+thời nhân;NOUN
+thời sự;NOUN,ADJ
+thời thế;NOUN
+thời thượng;NOUN
+thời tiết;NOUN
+thời trang;NOUN
+thời trân;NOUN
+thời vận;NOUN
+thời vụ;NOUN
+thơm;NOUN,VERB,ADJ
+thơm hắc;ADJ
+thơm lây;ADJ
+thơm ngát;ADJ
+thơm nức;ADJ
+thơm phức;ADJ
+thơm sực;ADJ
+thơm thảo;ADJ
+thơm tho;ADJ
+thơn thớt;ADJ
+thờn bơn;NOUN
+thớt;NOUN
+thu;NOUN,VERB
+thu ba;NOUN
+thu binh;VERB
+thu chi;VERB
+thu dọn;VERB
+thu dụng;VERB
+thu gom;VERB
+thu gọn;VERB
+thu góp;VERB
+thu hẹp;VERB
+thu hình;VERB,ADJ
+thu hoạch;VERB,NOUN
+thu hồi;VERB
+thu hút;VERB
+thu không;NOUN
+thu linh;VERB
+thu lôi;NOUN
+thu lu;ADJ
+thu lượm;VERB
+thu mua;VERB
+thu nạp;VERB
+thu ngân;VERB
+thu nhặt;VERB
+thu nhận;VERB
+thu nhập;VERB,NOUN
+thu phân;NOUN
+thu phong;NOUN
+thu phục;VERB
+thu quân;VERB
+thu tập;VERB
+thu thanh;VERB
+thu thập;VERB
+thu thuỷ;NOUN
+thu vén;VERB
+thu xếp;VERB
+thù;NOUN,VERB
+thù ân;VERB
+thù đáp;VERB
+thù địch;NOUN,VERB
+thù hằn;VERB
+thù hình;NOUN
+thù lao;VERB,NOUN
+thù lù;ADJ
+thù oán;VERB
+thù tạc;VERB
+thù tiếp;VERB
+thù ứng;VERB
+thủ;NOUN,VERB
+thủ bạ;NOUN
+thủ bút;NOUN
+thủ cấp;NOUN
+thủ chỉ;NOUN
+thủ công;VERB,NOUN
+thủ cựu;ADJ
+thủ dâm;VERB
+thủ đoạn;NOUN,ADJ
+thủ đô;NOUN
+thủ hạ;NOUN
+thủ hiến;NOUN
+thủ hộ;NOUN
+thủ kho;NOUN
+thủ khoa;NOUN
+thủ lễ;VERB
+thủ lĩnh;NOUN
+thủ mưu;NOUN
+thủ phạm;NOUN
+thủ pháo;NOUN
+thủ phận;VERB
+thủ phủ;NOUN
+thủ quân;NOUN
+thủ quỹ;NOUN
+thủ thành;NOUN
+thủ thân;VERB
+thủ thế;VERB
+thủ thỉ;VERB
+thủ thuật;NOUN
+thủ thư;NOUN
+thủ tiết;VERB
+thủ tiêu;VERB
+thủ trưởng;NOUN
+thủ túc;NOUN
+thủ tục;NOUN
+thủ từ;NOUN
+thủ tự;NOUN
+thủ tướng;NOUN
+thủ tướng phủ;NOUN
+thủ vĩ ngâm;NOUN
+thủ xướng;VERB
+thú;NOUN,ADJ,VERB
+thú nhận;VERB
+thú phục;VERB
+thú quê;NOUN
+thú thật;VERB
+thú tính;NOUN
+thú tội;VERB
+thú vật;NOUN
+thú vị;ADJ
+thú vui;NOUN
+thú y sĩ;NOUN
+thụ ân;VERB
+thụ bệnh;VERB
+thụ động;ADJ
+thụ giáo;VERB
+thụ giới;VERB
+thụ hình;VERB
+thụ mệnh;VERB
+thụ nghiệp;VERB
+thụ phấn;VERB
+thụ phong;VERB
+thụ tang;VERB
+thụ thai;VERB
+thụ tinh;VERB
+thua;VERB
+thua kém;VERB
+thua kiện;ADJ
+thua lỗ;VERB
+thua tháy;ADJ
+thua thiệt;VERB
+thùa;VERB,ADJ
+thủa;NOUN
+thuần;ADJ
+thuần chủng;ADJ
+thuần dưỡng;VERB
+thuần hậu;ADJ
+thuần khiết;ADJ
+thuần lý;ADJ
+thuần nhất;ADJ
+thuần phác;ADJ
+thuần phong;NOUN
+thuần thục;ADJ
+thuần tính;ADJ
+thuần tuý;ADJ
+thuận;ADJ
+thuận cảnh;NOUN
+thuận hoà;ADJ
+thuận lợi;ADJ
+thuận nghịch;ADJ
+thuận phong;ADJ
+thuận tiện;ADJ
+thuật;NOUN,VERB
+thuật ngữ;NOUN
+thuật sĩ;NOUN
+thuật số;NOUN
+thúc;VERB
+thúc bá;NOUN
+thúc bách;VERB
+thúc đẩy;VERB
+thúc ép;VERB
+thúc giáp;VERB
+thúc giục;VERB
+thúc phụ;NOUN
+thúc thủ;VERB
+thục;NOUN,ADJ
+Thục đế;NOUN
+thục địa;NOUN
+thục hồi;VERB
+thục luyện;ADJ
+thục mạng;VERB
+thục nữ;NOUN
+thục tội;VERB
+thuê;VERB
+thuê mướn;VERB
+thuể thoả;ADJ
+thuế;NOUN
+thuế biểu;NOUN
+thuế đinh;NOUN
+thuế khoá;NOUN
+thuế má;NOUN
+thuế quan;NOUN
+thuế thân;NOUN
+thui;VERB,ADJ
+thui thủi;ADJ
+thụi;VERB
+thum;NOUN
+thum thủm;ADJ
+thùm thụp;ADJ
+thủm;ADJ
+thun;NOUN,ADJ
+thun lủn;ADJ
+thung;NOUN
+thung dung;ADJ
+thung đường;NOUN
+thung huyên;NOUN
+thung lũng;NOUN
+thung thăng;ADJ
+thùng;NOUN,ADJ
+thùng thùng;ADJ
+thùng thư;NOUN
+thùng xe;NOUN
+thủng;ADJ
+thủng thẳng;ADJ
+thủng thỉnh;ADJ
+thũng;NOUN
+thúng;NOUN
+thúng mủng;NOUN
+thuốc;NOUN,VERB
+thuốc bánh;NOUN
+thuốc bắc;NOUN
+thuốc bổ;NOUN
+thuốc cao;NOUN
+thuốc chén;NOUN
+thuốc dấu;NOUN
+thuốc đỏ;NOUN
+thuốc độc;NOUN
+thuốc lá;NOUN
+thuốc lào;NOUN
+thuốc men;NOUN
+thuốc mê;NOUN
+thuốc mỡ;NOUN
+thuốc muối;NOUN
+thuốc nam;NOUN
+thuốc ngủ;NOUN
+thuốc nhuộm;NOUN
+thuốc phiện;NOUN
+thuốc sống;NOUN
+thuốc tây;NOUN
+thuốc tẩy;NOUN
+thuốc tê;NOUN
+thuốc thang;NOUN,VERB
+thuốc thử;NOUN
+thuốc tím;NOUN
+thuốc xổ;NOUN
+thuộc;VERB
+thuộc địa;NOUN
+thuộc hạ;NOUN
+thuộc quốc;NOUN
+thuộc tính;NOUN
+thuộc viên;NOUN
+thuôn;VERB,ADJ
+thuôn thuôn;ADJ
+thuồn;VERB
+thuỗn;ADJ
+thuốn;NOUN,VERB
+thuồng luồng;NOUN
+thuổng;NOUN
+thuở;NOUN
+thuở nay;ADV
+thụp;VERB,ADJ
+thút thít;ADJ
+thụt;VERB
+thụt két;VERB
+thụt lùi;VERB
+thuỳ dương;NOUN
+thuỷ đạo;NOUN
+thuỷ lợi;NOUN
+thuỷ phủ;NOUN
+Thuỷ tinh;NOUN
+thuyên;VERB
+thuyên chuyển;VERB
+thuyên giảm;VERB
+thuyền;NOUN
+thuyền bè;NOUN
+thuyền chài;NOUN
+thuyền chủ;NOUN
+thuyền đinh;NOUN
+thuyền lan;NOUN
+thuyền mành;NOUN
+thuyền nan;NOUN
+thuyền quyên;NOUN
+thuyền rồng;NOUN
+thuyền thoi;NOUN
+thuyền thúng;NOUN
+thuyền trưởng;NOUN
+thuyết;NOUN,VERB
+thuyết giáo;VERB
+thuyết khách;NOUN
+thuyết lý;VERB
+thuyết minh;VERB
+thuyết pháp;VERB
+thuyết phục;VERB
+thuyết trình;VERB
+thư;NOUN,ADJ,VERB
+thư cục;NOUN
+thư điếm;NOUN
+thư đồng;NOUN
+thư hiên;NOUN
+thư hùng;ADJ
+thư hương;NOUN
+thư ký;NOUN
+thư lại;NOUN
+thư mục;NOUN
+thư mục học;NOUN
+thư ngỏ;NOUN
+thư nhàn;ADJ
+thư pháp;NOUN
+thư phòng;NOUN
+thư phù;VERB
+thư quán;NOUN
+thư sinh;NOUN,ADJ
+thư song;NOUN
+thư thả;ADJ
+thư thái;ADJ
+thư thư;VERB,ADJ
+thư tịch;NOUN
+thư tín;NOUN
+thư trai;NOUN
+thư từ;NOUN,VERB
+thư viện;NOUN
+thư xã;NOUN
+thừ;ADJ
+thử;VERB
+thử lửa;VERB
+thử thách;VERB,NOUN
+thứ;NOUN,ADJ
+thứ ba;NOUN
+thứ bảy;NOUN
+thứ bậc;NOUN
+thứ dân;NOUN
+thứ đệ;NOUN
+thứ hai;NOUN
+thứ mẫu;NOUN
+thứ nam;NOUN
+thứ năm;NOUN
+thứ nữ;NOUN
+thứ phẩm;NOUN
+thứ phi;NOUN
+thứ sáu;NOUN
+thứ sử;NOUN
+thứ thất;NOUN
+thứ trưởng;NOUN
+thứ tư;NOUN
+thứ tử;NOUN
+thứ tự;NOUN
+thứ vị;NOUN
+thứ yếu;ADJ
+thưa;VERB,ADJ
+thưa bẩm;VERB
+thưa kiện;VERB
+thưa thốt;VERB
+thưa thớt;ADJ
+thưa trình;VERB
+thừa;NOUN,VERB,ADJ
+thừa ân;VERB
+thừa cơ;VERB
+thừa gia;VERB
+thừa hành;VERB
+thừa hưởng;VERB
+thừa kế;VERB
+thừa lệnh;VERB
+thừa lương;VERB
+thừa mứa;ADJ
+thừa nhận;VERB
+thừa phái;NOUN
+thừa phát lại;NOUN
+thừa số;NOUN
+thừa sức;VERB
+thừa tập;VERB
+thừa thãi;ADJ
+thừa thế;VERB
+thừa tiếp;VERB
+thừa trừ;VERB
+thừa tự;VERB
+thừa tướng;NOUN
+thừa ưa;ADV
+thừa ứa;ADJ
+thửa;NOUN,VERB,ADJ
+thức;NOUN,VERB
+thức ăn;NOUN
+thức dậy;VERB
+thức giả;NOUN
+thức giấc;VERB
+thức nhắc;VERB
+thức thời;ADJ
+thức thức;NOUN
+thức tỉnh;VERB
+thực;ADJ
+thực chất;NOUN
+thực chi;VERB
+thực dân;NOUN
+thực dân địa;NOUN
+thực dụng;ADJ
+thực đơn;VERB
+thực hành;VERB
+thực hiện;VERB
+thực học;NOUN
+thực hư;ADJ
+thực lục;NOUN
+thực lực;NOUN
+thực nghiệm;VERB,ADJ
+thực nghiệp;NOUN
+thực phẩm;NOUN
+thực quản;NOUN
+thực quyền;NOUN
+thực sản;NOUN
+thực sự;ADJ
+thực tài;NOUN
+thực tại;NOUN
+thực tay;ADV
+thực tâm;NOUN
+thực tập;VERB
+thực tế;NOUN,ADJ
+thực thể;NOUN,ADJ
+thực thu;VERB
+thực thụ;ADJ
+thực tiễn;NOUN,ADJ
+thực tình;ADJ
+thực trạng;NOUN
+thực từ;NOUN
+thực vật;NOUN,ADJ
+thực vật chí;NOUN
+thực vật học;NOUN
+thưng;NOUN,VERB
+thừng;NOUN
+thước;NOUN
+thước cuốn;NOUN
+thước dây;NOUN
+thước đo góc;NOUN
+thước gấp;NOUN
+thước kẻ;NOUN
+thước khối;NOUN
+thước nách;NOUN
+thước ta;NOUN
+thước tây;NOUN
+thước thợ;NOUN
+thước tính;NOUN
+thước vuông;NOUN
+thược dược;NOUN
+thườn thượt;ADJ
+thưỡn;VERB
+thương;NOUN,VERB
+thương binh;NOUN
+thương cảm;VERB
+thương cảng;VERB
+thương chiến;VERB
+thương chính;NOUN
+thương cục;NOUN
+thương điếm;NOUN
+thương gia;NOUN
+thương giới;NOUN
+thương hại;VERB
+thương hàn;NOUN
+thương hội;NOUN
+thương khách;NOUN
+thương khẩu;NOUN
+thương lượng;VERB
+thương mại;NOUN
+thương nghị;VERB
+thương nghiệp;NOUN
+thương nhớ;VERB
+thương phẩm;NOUN
+thương số;NOUN
+thương tá;NOUN
+thương tâm;ADJ
+thương thuyền;NOUN
+thương thuyết;VERB
+thương tích;NOUN
+thương tiếc;VERB
+thương tình;VERB
+thương tổn;ADJ
+thương trường;NOUN
+thương ước;NOUN
+thương vong;NOUN
+thương vụ;NOUN
+thương xót;VERB
+thương yêu;NOUN
+thường;VERB,ADJ
+thường dân;NOUN
+thường dùng;ADJ
+thường lệ;NOUN
+thường nhật;ADJ
+thường niên;ADJ
+thường phạm;NOUN
+thường phục;NOUN
+thường sơn;NOUN
+thường tân;NOUN
+thường thức;NOUN
+thường tình;ADJ
+thường trú;VERB
+thường trực;VERB,NOUN
+thường vụ;NOUN
+thường xuyên;ADJ
+thưởng;VERB
+thưởng hoa;VERB
+thưởng ngoạn;VERB
+thưởng nguyệt;VERB
+thưởng phạt;VERB
+thưởng thức;VERB
+thưởng xuân;VERB
+thượng;NOUN,ADJ
+thượng cấp;NOUN
+thượng cổ;ADJ
+thượng du;NOUN
+thượng đẳng;VERB
+thượng đế;NOUN
+thượng điền;NOUN
+thượng đỉnh;NOUN,ADJ
+thượng giới;NOUN
+thượng hạ;NOUN
+thượng hạng;ADJ
+thượng hoàng;NOUN
+thượng huyền;NOUN
+thượng khách;NOUN
+thượng kinh;VERB
+thượng lộ;VERB
+thượng lưu;NOUN
+thượng mã;VERB
+thượng nghị sĩ;NOUN
+thượng nghị viện;NOUN
+thượng nguyên;NOUN
+thượng phẩm;ADJ
+thượng quan;NOUN
+thượng quốc;NOUN
+thượng sách;NOUN
+thượng sĩ;NOUN
+thượng tá;NOUN
+thượng tân;NOUN
+thượng tầng;NOUN
+thượng thanh;NOUN
+thượng thọ;NOUN
+thượng thư;NOUN
+thượng trình;VERB
+thượng tuần;NOUN
+thượng tướng;NOUN
+thượng uyển;NOUN
+thượng võ;VERB
+thướt tha;ADJ
+thượt;ADJ
+ti;NOUN
+ti chức;NOUN
+ti hào;NOUN
+ti hí;ADJ
+ti tỉ;ADJ
+ti tiện;ADJ
+ti toe;VERB
+ti trúc;NOUN
+tì;NOUN,VERB
+tì ố;ADJ
+tì vết;NOUN
+tỉ mỉ;ADJ
+tỉ tê;VERB
+tí;NOUN,ADJ
+tí chút;NOUN
+tí đỉnh;NOUN
+tí hon;ADJ
+tí tách;ADJ
+tí teo;NOUN
+tí tẹo;NOUN
+tí ti;NOUN,ADJ
+tí tị;NOUN
+tí xíu;NOUN,ADJ
+tị;NOUN,VERB
+tị hiềm;VERB
+tị nạn;VERB
+tị nạnh;VERB
+tị trần;VERB
+tia;NOUN,VERB
+tia tía;ADJ
+tia vũ trụ;NOUN
+tia x;NOUN
+tỉa;VERB
+tía;NOUN,ADJ
+tía tô;NOUN
+tích;NOUN,VERB
+tích cực;ADJ
+tích điện;VERB
+tích phân;NOUN
+tích số;NOUN
+tích sự;NOUN
+tích tắc;ADJ,NOUN
+tích trữ;VERB
+tích tụ;VERB
+tịch;VERB
+tịch biên;VERB
+tịch cốc;VERB
+tịch diệt;VERB
+tịch dương;NOUN
+tịch ký;VERB
+tịch liêu;ADJ
+tịch mịch;ADJ
+tiếc;VERB
+tiếc rẻ;VERB
+tiệc;NOUN
+tiệc mặn;NOUN
+tiệc rượu;NOUN
+tiệc trà;NOUN
+tiệc tùng;NOUN
+tiêm;NOUN,VERB
+tiêm nhiễm;VERB
+tiêm tất;NOUN
+tiềm;VERB
+tiềm lực;NOUN
+tiềm năng;NOUN
+tiềm tàng;ADJ
+tiềm thức;NOUN
+tiềm tiệm;ADJ
+tiếm;VERB
+tiếm đoạt;VERB
+tiếm vị;VERB
+tiệm;NOUN
+tiệm cận;VERB
+tiệm tiến;VERB
+tiên;NOUN,ADJ
+tiên cảnh;NOUN
+tiên chỉ;NOUN
+tiên cung;NOUN
+tiên đề;NOUN
+tiên đế;NOUN
+tiên đoán;VERB
+tiên đồng;NOUN
+tiên giới;NOUN
+tiên hiền;NOUN
+tiên kiến;NOUN
+tiên liệt;NOUN
+tiên mai;NOUN
+tiên nga;NOUN
+tiên nghiệm;VERB
+tiên nhân;NOUN
+tiên nho;NOUN
+tiên nữ;NOUN
+tiên ông;NOUN
+tiên phong;ADJ
+tiên quân;NOUN
+tiên quyết;ADJ
+tiên sinh;NOUN
+Tiên sư;NOUN
+tiên thề;NOUN
+tiên thường;NOUN
+tiên tiến;NOUN
+tiên tổ;NOUN
+tiên tri;VERB
+tiên triết;NOUN
+tiên tử;NOUN
+tiên vương;NOUN
+tiền;NOUN,ADJ
+tiền án;NOUN
+tiền bạc;NOUN
+tiền bối;NOUN
+tiền căn;NOUN
+tiền của;NOUN
+tiền duyên;NOUN
+tiền đạo;NOUN
+tiền đề;NOUN
+tiền định;ADJ
+tiền đồ;NOUN
+tiền đồn;NOUN
+tiền đường;NOUN
+tiền gián;NOUN
+tiền khu;VERB
+tiền kiếp;NOUN
+tiền lẻ;NOUN
+tiền lệ;NOUN
+tiền lương;NOUN
+tiền mặt;NOUN
+tiền ngay;ADV
+tiền nhân;NOUN
+tiền nong;NOUN
+tiền phong;ADJ,NOUN
+tiền sinh;NOUN
+tiền sử;NOUN
+tiền tài;NOUN
+tiền tệ;NOUN
+tiền thân;NOUN
+tiền thế;NOUN
+tiền tiến;ADJ
+tiền tiêu;NOUN
+tiền tố;NOUN
+tiền trạm;NOUN
+tiền triết;NOUN
+tiền trình;NOUN
+tiền tuyến;NOUN
+tiền vệ;NOUN
+tiễn;VERB
+tiễn biệt;VERB
+tiễn chân;VERB
+tiễn đưa;VERB
+tiễn hành;VERB
+tiến;VERB
+tiến bộ;VERB,NOUN
+tiến công;VERB
+tiến cống;VERB
+tiến cử;VERB
+tiến độ;NOUN
+tiến hành;VERB
+tiến quân;VERB
+tiến sĩ;NOUN
+tiến thân;VERB
+tiến thoái;VERB
+tiến thủ;VERB
+tiến tới;NOUN
+tiến trình;NOUN
+tiện;VERB,ADJ
+tiện kỹ;NOUN
+tiện lợi;ADJ
+tiện nghi;NOUN,ADJ
+tiện nội;NOUN
+tiện nữ;NOUN
+tiện thiếp;NOUN
+tiếng;NOUN
+tiếng dội;NOUN
+tiếng dữ;NOUN
+tiếng đồn;NOUN
+tiếng động;NOUN
+tiếng kêu;NOUN
+tiếng lóng;NOUN
+tiếng nói;NOUN
+tiếng oanh;NOUN
+tiếng tăm;NOUN
+tiếng vang;NOUN
+tiếp;VERB
+tiếp âm;VERB
+tiếp cận;VERB
+tiếp cây;VERB
+tiếp chiến;VERB
+tiếp chuyện;VERB
+tiếp dẫn;VERB
+tiếp diễn;VERB
+tiếp diện;NOUN
+tiếp đãi;VERB
+tiếp đầu ngữ;NOUN
+tiếp điểm;NOUN
+tiếp đón;VERB
+tiếp giáp;VERB
+tiếp hạch;VERB
+tiếp kiến;VERB
+tiếp liền;VERB
+tiếp liệu;VERB
+tiếp máu;VERB
+tiếp nhận;VERB
+tiếp nối;VERB
+tiếp quản;VERB
+tiếp rước;VERB
+tiếp sức;VERB
+tiếp tay;VERB
+tiếp tân;VERB
+tiếp tế;VERB
+tiếp theo;VERB
+tiếp thu;VERB
+tiếp thụ;VERB
+tiếp tục;VERB
+tiếp tuyến;NOUN
+tiếp ứng;VERB
+tiếp viện;VERB
+tiếp xúc;VERB
+tiệp báo;NOUN
+tiết;NOUN,VERB
+tiết canh;NOUN
+tiết chế;VERB
+tiết diện;NOUN
+tiết dục;VERB
+tiết độ sứ;NOUN
+tiết hạnh;NOUN
+tiết hợp;ADJ
+tiết kiệm;VERB
+tiết lậu;VERB
+tiết lộ;VERB
+tiết mao;NOUN
+tiết mục;NOUN
+tiết nghĩa;NOUN
+tiết tấu;NOUN
+tiết tháo;NOUN
+tiết túc;NOUN
+tiết ước;ADJ
+tiệt;VERB,ADJ
+tiệt nhiên;VERB
+tiệt trùng;VERB
+tiêu;NOUN,VERB
+tiêu bản;NOUN
+tiêu biểu;VERB
+tiêu chí;NOUN
+tiêu chuẩn;NOUN,ADJ
+tiêu cự;NOUN
+tiêu cực;ADJ,NOUN
+tiêu dao;VERB
+tiêu diệt;VERB
+tiêu dùng;VERB
+tiêu đề;NOUN
+tiêu điểm;NOUN
+tiêu điều;ADJ
+tiêu độc;ADJ
+tiêu hao;NOUN,VERB
+tiêu khiển;VERB
+tiêu ma;VERB
+tiêu ngữ;NOUN
+tiêu pha;VERB
+tiêu phòng;NOUN
+Tiêu phòng;NOUN
+tiêu sái;ADJ
+tiêu sắc;ADJ
+tiêu sầu;VERB
+tiêu sọ;NOUN
+tiêu sơ;ADJ
+tiêu tán;VERB
+tiêu tao;ADJ
+tiêu thổ;VERB
+tiêu thụ;VERB
+tiêu trừ;VERB
+tiêu tức;VERB
+tiêu vong;VERB
+tiêu xài;VERB
+tiêu xưng;VERB
+tiều;NOUN
+tiều phu;NOUN
+tiểu;NOUN,VERB,ADJ
+tiểu ban;NOUN
+tiểu bang;NOUN
+tiểu chủ;NOUN
+tiểu chú;NOUN
+tiểu công nghệ;NOUN
+tiểu dẫn;NOUN
+tiểu di;VERB
+tiểu đăng khoa;VERB
+tiểu đệ;NOUN
+tiểu đoàn;NOUN
+tiểu đoàn bộ;NOUN
+tiểu đoàn trưởng;NOUN
+tiểu đội;NOUN
+tiểu đội trưởng;NOUN
+tiểu đồng;NOUN
+tiểu hàn;NOUN
+tiểu hình;ADJ
+tiểu học;NOUN
+tiểu khê;NOUN
+tiểu khí;NOUN
+tiểu khu;NOUN
+tiểu kiều;NOUN
+tiểu kỷ;ADJ
+tiểu liên;NOUN
+tiểu luận;NOUN
+tiểu mạch;NOUN
+tiểu não;NOUN
+tiểu nhân;NOUN
+tiểu nhi;NOUN
+tiểu nông;NOUN
+tiểu quy mô;ADJ
+tiểu sản;NOUN
+tiểu sử;NOUN
+tiểu táo;NOUN
+tiểu tâm;NOUN
+tiểu thặng;NOUN
+tiểu thiền;PRONN
+tiểu thơ;NOUN
+tiểu thủ công;NOUN
+tiểu thuyết;NOUN
+tiểu thử;NOUN
+tiểu thừa;NOUN
+tiểu thương;NOUN
+tiểu tiện;VERB
+tiểu tiết;NOUN
+tiểu tinh;NOUN
+tiểu tổ;NOUN
+tiểu truyện;NOUN
+tiểu tư sản;NOUN,ADJ
+tiểu xảo;ADJ
+tiễu;VERB
+tiễu phỉ;VERB
+tiếu lâm;NOUN
+tiếu mạ;VERB
+tim;NOUN
+tim đen;NOUN
+tim la;NOUN
+tim tím;ADJ
+tìm;VERB
+tìm hiểu;VERB
+tìm kiếm;VERB
+tìm tòi;VERB
+tím;ADJ
+tím bầm;ADJ
+tím gan;ADJ
+tin;NOUN,VERB,ADJ
+tin buồn;NOUN
+tin cẩn;VERB
+tin cậy;VERB
+tin dữ;NOUN
+tin đồn;NOUN
+tin lành;NOUN
+Tin lành;NOUN
+tin mừng;NOUN
+tin nhạn;NOUN
+Tin nhạn;NOUN
+tin tức;NOUN
+tin tưởng;VERB
+tin vịt;NOUN
+Tin xuân;NOUN
+tĩn;NOUN
+tín;NOUN
+tín chỉ;NOUN
+tín chủ;NOUN
+tín dụng;NOUN
+tín điều;NOUN
+tín đồ;NOUN
+tín hiệu;NOUN
+tín nghĩa;NOUN
+tín ngưỡng;NOUN
+tín nhiệm;VERB
+tín nữ;NOUN
+tín phiếu;NOUN
+tín phục;VERB
+tín vật;NOUN
+tinh;NOUN,ADJ
+tinh anh;NOUN,ADJ
+tinh binh;NOUN
+tinh bột;NOUN
+tinh cầu;NOUN
+tinh chất;NOUN
+tinh chế;VERB
+tinh dầu;NOUN
+tinh dịch;NOUN
+tinh đồ;NOUN
+tinh đời;ADJ
+tinh giản;VERB
+tinh hoa;NOUN
+tinh hoàn;NOUN
+tinh khí;NOUN
+tinh khiết;NOUN
+tinh khôn;ADJ
+tinh luyện;VERB,ADJ
+tinh lực;NOUN
+tinh ma;ADJ
+tinh mơ;ADJ
+tinh nghịch;ADJ
+tinh nhanh;ADJ
+tinh nhuệ;ADJ
+tinh quái;ADJ
+tinh ranh;ADJ
+tinh sương;NOUN
+tinh tế;ADJ
+tinh thạch;NOUN
+tinh thành;NOUN
+tinh thạo;ADJ
+tinh thần;NOUN
+tinh thể;NOUN
+tinh thông;VERB
+tinh trùng;NOUN
+tinh tú;NOUN
+tinh tươm;ADJ
+tinh tường;ADJ
+tinh vân;NOUN
+tinh vệ;NOUN
+tinh vi;ADJ
+tinh xác;ADJ
+tinh xảo;ADJ
+tinh ý;ADJ
+tình;NOUN,ADJ
+tình ái;NOUN
+tình báo;VERB,NOUN
+tình ca;NOUN
+tình cảm;NOUN,ADJ
+tình cảnh;NOUN
+tình cờ;ADJ
+tình dục;NOUN
+tình duyên;NOUN
+tình địch;NOUN
+tình hình;NOUN
+tình hoài;NOUN
+tình huống;NOUN
+tình lang;NOUN
+tình nghi;VERB
+tình nghĩa;NOUN,ADJ
+tình nguyện;VERB
+tình nhân;NOUN
+tình phụ;VERB
+tình quân;NOUN
+tình thâm;NOUN
+tình thân;NOUN
+tình thật;ADJ
+tình thế;NOUN,ADJ
+tình thư;NOUN
+tình thực;ADJ
+tình tiết;NOUN
+tình trạng;NOUN
+tình trường;NOUN
+tình tứ;ADJ
+tình tự;NOUN,VERB
+tình ý;ADJ
+tình yêu;NOUN
+tỉnh;NOUN,ADJ
+tỉnh bộ;NOUN
+tỉnh dậy;VERB
+tỉnh đoàn;NOUN
+tỉnh đường;NOUN
+tỉnh giảm;VERB
+tỉnh giấc;VERB
+tỉnh lỵ;NOUN
+tỉnh ngộ;VERB
+tỉnh ngủ;ADJ
+tỉnh táo;ADJ
+tỉnh thành;NOUN
+tỉnh trưởng;NOUN
+tĩnh;NOUN,ADJ
+tĩnh dưỡng;VERB
+tĩnh đàn;NOUN
+tĩnh điện;NOUN
+tĩnh điện học;NOUN
+tĩnh điện kế;NOUN
+tĩnh học;NOUN
+tĩnh mạch;NOUN
+tĩnh mịch;ADJ
+tĩnh tại;ADJ
+tĩnh tâm;VERB
+tĩnh thổ;NOUN
+tĩnh trí;VERB
+tĩnh túc;ADJ
+tĩnh vật;NOUN
+tính;NOUN,VERB
+tính cách;NOUN
+tính chất;NOUN
+tính danh;NOUN
+tính giao;NOUN
+tính hạnh;NOUN
+tính khí;NOUN
+tính mạng;NOUN
+tính năng;NOUN
+tính nết;NOUN
+tính ngữ;NOUN
+tính nhẩm;VERB
+tính tình;NOUN
+tính toan;VERB
+tính toán;VERB
+tính từ;NOUN
+tịnh;VERB,ADJ,ADV
+tịnh đế;ADJ
+tịnh độ;NOUN
+tịnh giới;NOUN
+tít;NOUN,ADJ
+tít mắt;ADJ
+tịt;NOUN,ADJ
+tịt mít;ADJ
+tịt ngòi;ADJ
+tiu;NOUN,VERB
+tíu;ADJ
+tíu tít;ADJ
+to;ADJ
+to bụng;ADJ
+to đầu;ADJ
+to gan;ADJ
+to lớn;ADJ
+to mồm;ADJ
+to nhỏ;VERB
+to tát;ADJ
+to tiếng;ADJ
+to tướng;ADJ
+to xác;ADJ
+to xù;ADJ
+tò he;NOUN
+tò mò;VERB
+tò te;ADJ
+tò vò;NOUN
+tỏ;ADJ,VERB
+tỏ bày;VERB
+tỏ lộ;VERB
+tỏ ra;VERB
+tỏ rạng;VERB
+tỏ rõ;VERB
+tỏ tường;ADJ,VERB
+tỏ vẻ;VERB
+toa;NOUN
+toà thánh;NOUN
+toác;VERB
+toạc;VERB
+toài;VERB
+toại;VERB
+toại chí;VERB
+toại lòng;ADJ
+toại nguyện;VERB
+toan;NOUN,VERB
+toan tính;VERB,NOUN
+toàn;NOUN,ADJ
+toàn bị;ADJ
+toàn bích;ADJ
+toàn bộ;NOUN
+toàn cầu;NOUN
+toàn diện;ADJ
+toàn gia;NOUN
+toàn lực;NOUN
+toàn mỹ;ADJ
+toàn năng;ADJ
+toàn phần;ADJ
+toàn quân;NOUN
+toàn quốc;NOUN
+toàn quyền;NOUN
+toàn tài;ADJ
+toàn tập;NOUN
+toàn thắng;VERB
+toàn thân;NOUN
+toàn thể;NOUN
+toàn thị;ADV
+toàn thiện;ADJ
+toàn thịnh;ADJ
+toàn vẹn;ADJ
+toán;NOUN
+toán học;NOUN
+toán pháp;NOUN
+toán số;NOUN
+toán trưởng;NOUN
+toang;ADJ
+toang hoác;ADJ
+toang hoang;ADJ
+toang toác;ADJ
+toang toang;ADJ
+toát;VERB
+toát dương;ADJ
+toát yếu;NOUN
+tóc;NOUN
+tóc mai;NOUN
+tóc máu;NOUN
+tóc mây;NOUN
+tóc ngứa;NOUN
+tóc rễ tre;NOUN
+tóc sâu;NOUN
+tóc sương;NOUN
+tóc thề;NOUN
+tóc tiên;NOUN
+tóc tơ;NOUN
+tóc xanh;NOUN
+tọc mạch;VERB
+toe;VERB,ADJ
+toe toét;VERB,ADJ
+toè;VERB
+toen hoẻn;ADJ
+toét;VERB,ADJ
+toẹt;ADJ
+toi;VERB
+toi cơm;VERB
+toi mạng;VERB
+tòi;VERB
+tỏi;NOUN,ADJ
+tỏi gà;NOUN
+tỏi tây;NOUN
+tom;ADJ
+tom góp;VERB
+tòm;ADJ
+tòm tem;VERB
+tõm;ADJ
+tóm;VERB
+tóm cổ;VERB
+tóm tắt;VERB
+ton hót;VERB
+ton ton;ADJ
+tong;VERB
+tong tả;ADJ
+tong tỏng;ADJ
+tòng chinh;VERB
+tòng cổ;VERB
+tòng học;VERB
+tòng lai;ADV
+tòng phạm;NOUN
+tòng phu;VERB
+tòng quân;VERB
+tòng quyền;VERB
+tòng sự;VERB
+tỏng;ADV
+tọng;VERB
+tóp;ADJ,VERB
+tóp mỡ;NOUN
+tóp tép;ADJ
+tọp;ADJ
+tót;VERB
+tót vời;ADJ
+tọt;VERB
+tô;NOUN,VERB
+tô điểm;VERB
+tô giới;NOUN
+tô hô;ADJ
+tô hồng;VERB
+tô-tem;NOUN
+tô vẽ;VERB
+tổ;NOUN,ADV
+tổ ấm;NOUN
+tổ bố;ADJ
+tổ chấy;NOUN
+tổ chức;VERB,NOUN
+tổ đỉa;NOUN
+tổ đổi công;NOUN
+tổ hợp;VERB,NOUN
+tổ hợp tác;NOUN
+tổ mẫu;NOUN
+tổ nghiệp;NOUN
+tổ ong;NOUN
+tổ phó;NOUN
+tổ phụ;NOUN
+tổ quốc;NOUN
+tổ sư;NOUN
+tổ tiên;NOUN
+tổ tôm;NOUN
+tổ tông;NOUN
+tổ truyền;ADJ
+tổ trưởng;NOUN
+tố;NOUN,VERB
+tố cáo;VERB
+tố giác;VERB
+tố khổ;VERB
+tố nga;NOUN
+tố nữ;NOUN
+tố tâm;NOUN
+tố tụng;VERB
+tộ;NOUN
+tốc;VERB,NOUN
+tốc độ;NOUN
+tốc độ kế;NOUN
+tốc hành;ADJ
+tốc ký;VERB
+tốc lực;NOUN
+tốc thành;ADJ
+tộc;NOUN
+tộc biểu;NOUN
+tộc đoàn;NOUN
+tộc trưởng;NOUN
+tôi;NOUN,VERB,PRONN
+tôi con;NOUN
+tôi đòi;NOUN
+tôi luyện;VERB
+tôi mọi;NOUN
+tôi tớ;NOUN
+tồi;ADJ
+tồi tàn;ADJ
+tồi tệ;ADJ
+tối;ADJ,NOUN
+tối cao;ADJ
+tối dạ;ADJ
+tối đa;ADJ
+tối đen;ADJ
+tối giản;ADJ
+tối hảo;ADJ
+tối hậu;ADJ
+tối hậu thư;NOUN
+tối huệ quốc;NOUN
+tối mắt;ADJ
+tối mịt;ADJ
+tối mò;ADJ
+tối mù;ADJ
+tối ngày;NOUN
+tối nghĩa;ADJ
+tối om;ADJ
+tối sầm;ADJ
+tối tăm;ADJ
+tối tân;ADJ
+tối thiểu;ADJ
+tối trời;ADJ
+tối ưu;ADJ
+tối xẩm;ADJ
+tối yếu;ADJ
+tội;NOUN,ADJ,VERB
+tội ác;NOUN
+tội đồ;NOUN
+tội lệ;NOUN
+tội lỗi;NOUN
+tội nhân;NOUN
+tội phạm;NOUN
+tội tình;NOUN
+tội trạng;NOUN
+tội vạ;NOUN
+tôm;NOUN,VERB
+tôm càng;NOUN
+tôm he;NOUN
+tôm hùm;NOUN
+tôm rồng;NOUN
+tôn;NOUN,VERB
+tôn chỉ;NOUN
+tôn giáo;NOUN
+tôn kính;VERB
+tôn miếu;NOUN
+tôn nghiêm;ADJ
+tôn nữ;NOUN
+tôn phái;NOUN
+tôn quân;VERB
+tôn sùng;VERB
+tôn sư;NOUN
+tôn thất;NOUN
+tôn ti;NOUN
+tôn tộc;ADJ
+tôn trọng;VERB
+tôn trưởng;NOUN
+tôn xưng;VERB
+tồn cổ;VERB
+tồn kho;VERB
+tồn nghi;ADJ
+tồn tại;VERB,NOUN
+tồn tại xã hội;NOUN
+tồn vong;VERB
+tổn hại;VERB
+tổn hao;VERB
+tổn thất;VERB
+tổn thọ;VERB
+tổn thương;ADJ
+tốn;VERB,NOUN
+tốn kém;VERB
+tông chi;NOUN
+tông đơ;NOUN
+tông đường;NOUN
+tông tích;NOUN
+tồng ngồng;ADJ
+tổng;NOUN
+tổng bãi công;VERB
+tổng bãi thị;VERB
+tổng bí thư;NOUN
+tổng binh;NOUN
+tổng bộ;NOUN
+tổng công đoàn;NOUN
+tổng công hội;NOUN
+tổng công kích;VERB
+tổng công ty;NOUN
+tổng cộng;VERB
+tổng cục;NOUN
+tổng dự toán;NOUN
+tổng đài;NOUN
+tổng đình công;NOUN
+tổng đoàn;NOUN
+tổng đốc;NOUN
+tổng động binh;VERB
+tổng động viên;VERB
+tổng giám đốc;NOUN
+tổng giám mục;NOUN
+tổng giám thị;NOUN
+tổng hành dinh;NOUN
+tổng hội;NOUN
+tổng hợp;VERB,ADJ
+tổng kết;VERB
+tổng khởi nghĩa;VERB
+tổng khủng hoảng;NOUN
+tổng lãnh sự;NOUN
+tổng luận;NOUN
+tổng lý;NOUN
+tổng phản công;VERB
+tổng quát;VERB
+tổng sản lượng;NOUN
+tổng số;NOUN
+tổng sư;NOUN
+tổng tấn công;VERB
+tổng tham mưu;NOUN
+tổng thanh tra;NOUN
+tổng thống;NOUN
+tổng thư ký;NOUN
+tổng trấn;NOUN
+tổng trưởng;NOUN
+tổng tuyển cử;NOUN
+tổng tư lệnh;NOUN
+tống;VERB
+tống biệt;VERB
+tống chung;VERB
+tống cổ;VERB
+tống đạt;VERB
+tống giam;VERB
+tống khẩu;VERB
+tống lao;VERB
+tống ngục;VERB
+tống táng;VERB
+tống tiền;VERB
+tống tiễn;VERB
+tống tình;VERB
+tốp;NOUN,VERB
+tốt;NOUN,ADJ
+tốt bạn;ADJ
+tốt bộ;ADJ
+tốt bổng;ADJ
+tốt bụng;ADJ
+tốt đen;NOUN
+tốt đẹp;ADJ
+tốt đôi;ADJ
+tốt giọng;ADJ
+tốt lành;ADJ
+tốt lão;ADJ
+tốt lễ;ADJ
+tốt mã;ADJ
+tốt nái;ADJ
+tốt nết;ADJ
+tốt nghiệp;VERB
+tốt nhịn;ADJ
+tốt nói;ADJ
+tốt phúc;ADJ
+tốt số;ADJ
+tốt tay;ADJ
+tốt thầy;ADJ
+tốt thuốc;ADJ
+tốt trời;ADJ
+tốt tươi;ADJ
+tột bậc;NOUN,ADJ
+tột đỉnh;NOUN
+tột độ;NOUN
+tột phẩm;NOUN
+tơ;NOUN,ADJ
+tơ duyên;NOUN
+tơ đào;NOUN
+tơ điều;NOUN
+tơ đồng;NOUN
+tơ hào;VERB
+tơ hồng;NOUN
+tơ lòng;NOUN
+tơ lơ mơ;ADJ
+tơ mành;NOUN
+tơ tình;NOUN
+tơ tóc;NOUN
+tơ tưởng;VERB
+tờ;NOUN
+tờ bồi;NOUN
+tờ hoa;NOUN
+tờ mây;NOUN
+tờ mờ;ADJ
+tớ;NOUN,PRONN
+tơi;NOUN,ADJ
+tơi bời;ADJ
+tơi tả;ADJ
+tời;NOUN
+tới;VERB,CONJ,ADV
+tới hạn;ADJ
+tới lui;VERB
+tới nơi;ADV
+tới số;VERB
+tới tấp;ADJ
+tởm;VERB
+tợn;ADJ
+tớp;VERB
+tợp;VERB,NOUN
+tra;VERB,ADJ,NOUN
+tra của;VERB
+tra cứu;VERB
+tra hỏi;VERB
+tra khảo;VERB
+tra tấn;VERB
+tra xét;VERB
+trà;NOUN
+trà mi;NOUN
+trà trộn;VERB
+trả;NOUN,VERB
+trả ân;VERB
+trả bài;VERB
+trả của;VERB
+trả đũa;VERB
+trả giá;VERB
+trả lãi;VERB
+trả lễ;VERB
+trả lời;VERB
+trả miếng;VERB
+trả ơn;VERB
+trả thù;VERB
+trã;NOUN
+trá;VERB
+trá bệnh;VERB
+trá hàng;VERB
+trá hình;VERB
+trác táng;VERB
+trác tuyệt;ADJ
+trác việt;ADJ
+trạc;NOUN
+trách;NOUN,VERB
+trách cứ;VERB
+trách mắng;VERB
+trách móc;VERB
+trách nhiệm;NOUN
+trách phạt;VERB
+trạch tả;NOUN
+trai;NOUN
+trai đàn;NOUN
+trai gái;NOUN,VERB
+trai giới;VERB
+trai lơ;ADJ
+trai tráng;NOUN
+trai trẻ;ADJ
+trải;NOUN,VERB
+trải qua;VERB
+trái;NOUN,ADJ
+trái chủ;NOUN
+trái chứng;ADJ
+trái cựa;ADJ
+trái đào;NOUN
+trái đất;NOUN
+trái khoản;NOUN
+trái khoáy;ADJ
+trái lè;ADJ
+trái lệ;ADJ
+trái lý;ADJ,NOUN
+trái mùa;ADJ
+trái nghĩa;ADJ
+trái ngược;ADJ
+trái phá;NOUN
+trái phép;ADJ
+trái phiếu;NOUN
+trái tai;ADJ
+trái tim;NOUN
+trái vụ;ADJ
+trái xoan;NOUN
+trái ý;ADJ
+trại;NOUN,ADJ
+trại con gái;NOUN
+trại giam;NOUN
+trại hè;NOUN
+trại lính;NOUN
+trại tập trung;NOUN
+tràm;NOUN
+trảm;VERB
+trảm quyết;VERB
+trám;NOUN,VERB
+trám đường;NOUN
+trám miệng;VERB
+trám trắng;NOUN
+trạm;NOUN
+trạm biến thế;NOUN
+trạm xá;NOUN
+tràn;NOUN,VERB
+tràn lan;ADJ
+tràn ngập;VERB
+tràn trề;ADJ
+trán;NOUN
+trang;NOUN,VERB
+trang bị;VERB,NOUN
+trang đài;NOUN
+trang hoàng;VERB
+trang kim;VERB
+trang nghiêm;ADJ
+trang nhã;ADJ
+trang phục;NOUN,VERB
+trang sức;VERB
+trang trải;VERB
+trang trại;NOUN
+trang trí;VERB
+trang trọng;ADJ
+trang viên;NOUN
+tràng;NOUN
+tràng hạt;NOUN
+tràng nhạc;NOUN
+trảng;NOUN
+tráng;NOUN,VERB
+tráng kiện;ADJ
+tráng lệ;ADJ
+tráng miệng;VERB
+tráng niên;NOUN
+tráng sĩ;NOUN
+trạng;NOUN
+trạng huống;NOUN
+trạng mạo;NOUN
+trạng nguyên;NOUN
+trạng sư;NOUN
+trạng thái;NOUN
+tranh;NOUN,VERB
+tranh ảnh;NOUN
+tranh biện;VERB
+tranh cãi;VERB
+tranh chấp;VERB
+tranh công;VERB
+tranh cử;VERB
+tranh cường;VERB
+tranh đấu;VERB
+tranh đoạt;VERB
+tranh đua;VERB
+tranh giành;VERB
+tranh hùng;VERB
+tranh luận;VERB
+tranh phong;VERB
+tranh quyền;VERB
+tranh thủ;VERB
+tranh tụng;VERB
+tranh vanh;ADJ
+trành;NOUN,VERB
+tránh;VERB
+tránh mặt;VERB
+tránh tiếng;VERB
+trao;VERB
+trao đổi;VERB
+trao tay;VERB
+trao trả;VERB
+trao tráo;ADJ
+trào;VERB
+trào lộng;ADJ
+trào lưu;NOUN
+trào phúng;ADJ
+trảo nha;NOUN
+tráo;VERB
+tráo mắt;ADV
+tráo trở;ADJ
+tráo trợn;ADJ
+tráo trưng;ADJ
+tráp;NOUN
+trát;VERB,NOUN
+trau;VERB
+trau chuốt;VERB
+trau dồi;VERB
+trau giồi;VERB
+tràu;NOUN
+trảy;VERB
+trắc;NOUN,ADJ
+trắc ẩn;VERB
+trắc bách diệp;NOUN
+trắc dĩ;VERB
+trắc đạc;VERB
+trắc địa học;NOUN
+trắc lượng;VERB
+trắc nết;ADJ
+trắc nghiệm;VERB
+trắc quang;NOUN
+trắc trở;ADJ
+trắc viễn;ADJ
+trăm;NOUN
+trăm họ;NOUN
+trăm năm;NOUN
+trăm ngày;NOUN
+trắm;NOUN
+trăn;NOUN
+trăn gió;NOUN
+trăn trở;VERB
+trằn;VERB
+trằn trọc;VERB
+trăng;NOUN
+trăng già;NOUN
+trăng gió;NOUN
+trăng hoa;NOUN
+trăng mật;NOUN
+trăng non;NOUN
+trăng trắng;ADJ
+trăng treo;NOUN
+trắng;ADJ,NOUN
+trắng án;ADJ
+trắng bạch;ADJ
+trắng bệch;ADJ
+trắng bong;ADJ
+trắng bốp;ADJ
+trắng chân;ADJ
+trắng chiếu;ADJ
+trắng dã;ADJ
+trắng đục;ADJ
+trắng hếu;ADJ
+trắng lôm lốp;ADJ
+trắng lốp;ADJ
+trắng mắt;ADJ
+trắng muốt;ADJ
+trắng ngà;ADJ
+trắng ngần;ADJ
+trắng ngồn ngộn;ADJ
+trắng nõn;ADJ
+trắng nuột;ADJ
+trắng phau;ADJ
+trắng tay;ADJ
+trắng tinh;ADJ
+trắng toát;ADJ
+trắng trẻo;ADJ
+trắng trợn;ADJ
+trắng trợt;ADJ
+trắng xoá;ADJ
+trắt;VERB
+trâm;NOUN
+trâm anh;NOUN
+trâm hốt;NOUN
+trầm;NOUN,VERB,ADJ
+trầm hương;NOUN
+trầm luân;VERB
+trầm mặc;ADJ
+trầm ngâm;ADJ
+trầm nghị;ADJ
+trầm tĩnh;ADJ
+trầm trệ;ADJ
+trầm trọng;ADJ
+trầm trồ;VERB
+trầm uất;VERB
+trẩm;VERB
+trẫm;NOUN
+trẫm mình;VERB
+trẫm triệu;NOUN
+trậm trầy trậm trật;ADJ
+trân;ADJ
+trân bảo;NOUN
+trân cam;NOUN
+trân châu;NOUN
+trân trân;ADJ
+trân trọng;VERB
+trân tu;NOUN
+trần;NOUN,ADJ,VERB
+trần ai;NOUN,ADJ
+trần cấu;NOUN
+trần duyên;NOUN
+trần gian;NOUN
+trần hoàn;NOUN
+trần hủ;ADJ
+trần liệt;VERB
+trần phàm;NOUN
+trần thế;NOUN
+trần thiết;VERB
+trần thuật;VERB
+trần thuyết;VERB
+trần tình;VERB
+trần trần;ADV
+Trần trần;ADV
+trần trụi;ADJ
+trần truồng;ADJ
+trần tục;NOUN,ADJ
+trẩn;ADJ
+trấn;NOUN,VERB
+trấn an;VERB
+trấn áp;VERB
+trấn át;VERB
+trấn ba đình;NOUN
+trấn biên;VERB
+trấn định;VERB
+trấn giữ;VERB
+trấn ngự;VERB
+trấn phong;NOUN
+trấn thủ;VERB,NOUN
+trấn tĩnh;VERB
+trận;NOUN
+trận địa;NOUN
+trận địa chiến;NOUN
+trận đồ;NOUN
+trận mạc;NOUN
+trận thế;NOUN
+trận tiền;NOUN
+trận tuyến;NOUN
+trận vong;VERB
+trâng tráo;ADJ
+trập;VERB
+trập trùng;ADJ
+trật;NOUN,VERB,ADJ
+trật tự;NOUN
+trâu;NOUN
+trâu chó;NOUN
+trâu mộng;NOUN
+trâu ngựa;NOUN
+trâu nước;NOUN
+trầu;NOUN
+trầu cau;NOUN
+trầu không;NOUN
+trầu thuốc;NOUN
+trấu;NOUN
+trây;VERB
+trầy;ADJ
+trầy trật;ADJ
+trầy trụa;ADJ
+trẩy;VERB
+tre;NOUN
+tre là ngà;NOUN
+tre pheo;NOUN
+trẻ;ADJ,NOUN
+trẻ con;NOUN,ADJ
+trẻ em;NOUN
+trẻ măng;ADJ
+trẻ mỏ;NOUN
+trẻ ranh;NOUN
+trẻ thơ;NOUN
+trẻ trung;ADJ
+trèm;VERB
+trẽn;ADJ
+treo;VERB
+treo giải;VERB
+treo giò;VERB
+treo gương;VERB
+treo mỏ;VERB
+treo mõm;VERB
+trèo;VERB
+trèo trẹo;ADJ
+tréo;ADJ
+tréo cựa;ADJ
+tréo khoeo;ADJ
+tréo mảy;ADJ
+tréo ngoe;ADJ
+trẹo;ADJ
+trẹo họng;ADJ
+trét;VERB
+trẹt;ADJ
+trẹt lét;ADJ
+trê;NOUN
+trề;VERB
+trễ;VERB,ADJ
+trễ biếng;ADJ
+trễ nải;ADJ
+trễ tràng;ADJ
+trệ;VERB
+trệ khí;NOUN
+trệ thai;NOUN
+trệch;ADJ
+trên;NOUN,CONJ
+trên dưới;NOUN
+trết;VERB
+trệt;ADJ
+trêu;VERB
+trêu chọc;VERB
+trêu gan;VERB
+trêu ghẹo;VERB
+trêu ngươi;VERB
+trêu tức;VERB
+trệu;ADJ,VERB
+tri âm;NOUN
+tri ân;VERB
+tri châu;NOUN
+tri giác;NOUN
+tri giao;VERB
+tri hô;VERB
+tri huyện;NOUN
+tri kỷ;NOUN,VERB
+tri ngộ;VERB
+tri phủ;NOUN
+tri tâm;ADJ
+tri thức;NOUN
+tri tình;VERB
+trì độn;ADJ
+trì hoãn;VERB
+trì hồ;VERB
+trì trệ;ADJ
+trĩ;NOUN
+trĩ mũi;NOUN
+trí;NOUN
+trí dục;NOUN
+trí dũng;ADJ
+trí khôn;NOUN
+trí lự;NOUN
+trí lực;NOUN
+trí mạng;ADJ
+trí não;NOUN
+trí năng;NOUN
+trí nhớ;NOUN
+trí óc;NOUN
+trí sĩ;VERB
+trí thức;NOUN
+trí trá;ADJ
+trí tuệ;NOUN
+trị;VERB,ADJ
+trị an;VERB
+trị bệnh;VERB
+trị giá;VERB
+trị liệu;VERB
+trị ngoại pháp quyền;NOUN
+trị quốc;VERB
+trị số;NOUN
+trị sự;NOUN
+trị tội;VERB
+trị vì;NOUN
+trỉa;VERB
+trích;NOUN,VERB
+trích dẫn;VERB
+trích dịch;VERB
+trích diễm;VERB
+trích đăng;VERB
+trích huyết;VERB
+trích lục;VERB
+trích tiên;NOUN
+trích yếu;VERB
+trịch thượng;ADJ
+triền;NOUN
+triền miên;ADJ
+triển khai;VERB
+triển lãm;NOUN
+triển vọng;NOUN
+triện;NOUN
+triêng;NOUN
+triết;NOUN
+triết gia;NOUN
+triết học;NOUN
+triết lý;NOUN,VERB
+triết nhân;NOUN
+triệt;VERB
+triệt binh;VERB
+triệt để;ADJ
+triệt hạ;VERB
+triệt hồi;VERB
+triệt thoái;VERB
+triệt tiêu;VERB
+triều;NOUN
+triều chính;NOUN
+triều cống;VERB
+triều đại;NOUN
+triều đình;NOUN
+triều đường;NOUN
+triều kiến;VERB
+triều nghi;NOUN
+triều phục;NOUN
+triều thần;NOUN
+triều yết;VERB
+triệu;NOUN,VERB
+triệu chứng;NOUN
+triệu hồi;VERB
+triệu phú;NOUN
+triệu tập;VERB
+triệu trẫm;NOUN
+trinh;NOUN,ADJ
+trinh bạch;ADJ
+trinh nữ;NOUN
+trinh phụ;NOUN
+trinh sát;VERB,NOUN
+trinh thám;VERB,NOUN,ADJ
+trinh thục;ADJ
+trinh tiết;ADJ
+trình;VERB
+trình báo;VERB
+trình bày;VERB
+trình diễn;VERB
+trình diện;VERB
+trình độ;NOUN
+trình làng;VERB
+trình trọt;VERB
+trình tự;NOUN
+trịnh trọng;ADJ
+trịt;ADJ
+trìu mến;VERB
+trĩu;ADJ
+trĩu trịt;ADJ
+tríu;VERB
+tro;NOUN,ADJ
+trò;NOUN
+trò chơi;NOUN
+trò chuyện;VERB
+trò cười;NOUN
+trò đời;NOUN
+trò đùa;NOUN
+trò hề;NOUN
+trò khỉ;NOUN
+trò trống;NOUN
+trò vè;NOUN
+trò vui;NOUN
+trỏ;VERB
+trọ;VERB
+trọ trẹ;ADJ
+tróc;VERB
+tróc nã;VERB
+trọc;ADJ
+trọc lóc;NOUN
+trọc phú;NOUN
+trọc tếch;ADJ
+trọc tếu;ADJ
+tròi;VERB
+trói;VERB
+trói buộc;VERB
+trọi lỏi;ADJ
+trọi trơn;ADJ
+tròm trèm;ADJ
+trõm;ADJ
+tróm trém;ADV
+tròn;ADJ,NOUN
+tròn trặn;ADJ
+tròn trịa;ADJ
+tròn trĩnh;ADJ
+tròn trõn;ADJ
+tròn vo;ADJ
+tròn xoay;ADJ
+tròn xoe;ADJ
+trọn;ADJ
+trọn vẹn;ADJ
+trong;NOUN,CONJ,ADJ
+trong khi;CONJ
+trong lúc;ADV
+trong ngoài;NOUN
+trong sạch;ADJ
+trong sáng;ADJ
+trong suốt;ADJ
+trong trắng;ADJ
+trong trẻo;ADJ
+trong vắt;ADJ
+trong veo;ADJ
+tròng;NOUN,VERB
+tròng đen;NOUN
+tròng đỏ;NOUN
+tròng trành;ADJ
+tròng trắng;NOUN
+trỏng;PRONN
+tróng;NOUN
+trọng;VERB,ADJ
+trọng âm;NOUN
+trọng bệnh;NOUN
+trọng dụng;VERB
+trọng đãi;VERB
+trọng đại;ADJ
+trọng địa;NOUN
+trọng điểm;NOUN
+trọng đông;ADJ
+trọng hậu;ADJ
+trọng hình;NOUN
+trọng lực;NOUN
+trọng lượng;NOUN
+trọng nhậm;VERB
+trọng nông;VERB
+trọng phạm;VERB
+trọng pháo;NOUN
+trọng tài;NOUN
+trọng tải;NOUN
+trọng tâm;NOUN
+trọng thần;NOUN
+trọng thể;ADJ
+trọng thị;VERB
+trọng thu;ADJ
+trọng thương;ADJ,VERB
+trọng thưởng;VERB
+trọng tội;NOUN
+trọng trách;NOUN
+trọng trấn;NOUN
+trọng trường;NOUN
+trọng vọng;VERB
+trọng xuân;ADJ
+trọng yếu;ADJ
+trót;VERB,ADJ
+trót dại;VERB
+trót lọt;ADJ
+trô trố;VERB
+trổ;VERB,NOUN
+trỗ;VERB
+trố;VERB,ADJ
+trộ;NOUN,VERB
+trốc;NOUN,VERB
+trộc trệch;ADV
+trôi;VERB,ADJ,NOUN
+trôi chảy;ADJ
+trôi nổi;VERB
+trồi;VERB
+trỗi;VERB
+trối;NOUN,VERB
+trối chết;ADJ
+trối già;VERB
+trối kệ;VERB
+trối thây;VERB
+trối trăng;VERB
+trội;ADJ
+trộm;VERB,NOUN
+trộm cắp;VERB,NOUN
+trộm cướp;VERB,NOUN
+trộm nghe;VERB
+trộm nghĩ;VERB
+trôn;NOUN
+trôn kim;NOUN
+trôn ốc;NOUN
+trốn;VERB
+trốn lính;VERB
+trốn mặt;VERB
+trốn tránh;VERB
+trộn;VERB
+trộn trạo;VERB
+trông;VERB
+trông cậy;VERB
+trông chờ;VERB
+trông chừng;VERB
+trông coi;VERB
+trông đợi;VERB
+trông lại;VERB
+trông mong;VERB
+trông ngóng;VERB
+trông nom;VERB
+trông thấy;VERB
+trông vào;VERB
+trông vời;VERB
+trồng;VERB
+trồng răng;VERB
+trồng tỉa;VERB
+trồng trọt;VERB
+trống;NOUN,ADJ
+trống bỏi;NOUN
+trống cà rùng;NOUN
+trống cái;NOUN
+trống canh;NOUN
+trống chầu;NOUN
+trống cơm;NOUN
+trống ếch;NOUN
+trống hốc;ADJ
+trống khẩu;NOUN
+trống không;ADJ
+trống mái;VERB
+trống miệng;ADJ
+trống ngực;NOUN
+trống phách;NOUN
+trống quân;NOUN
+trống rỗng;ADJ
+trống trải;ADJ
+trống tràng;NOUN
+trơ;ADJ
+trơ khấc;ADJ
+trơ mắt;ADJ
+trơ thổ địa;ADJ
+trơ tráo;ADJ
+trơ trẽn;ADJ
+trơ trọi;ADJ
+trơ trơ;ADJ
+trơ trụi;ADJ
+trờ trờ;ADJ
+trở;NOUN,VERB
+trở chứng;VERB
+trở dạ;VERB
+trở đi;ADV
+trở gió;VERB
+trở giọng;VERB
+trở gót;VERB
+trở lại;VERB
+trở lui;VERB,ADV
+trở lực;NOUN
+trở mặt;VERB
+trở mình;VERB
+trở mùi;VERB
+trở nên;VERB
+trở ngại;NOUN
+trở thành;VERB
+trở trời;VERB
+trở về;VERB
+trở xuống;ADV
+trớ;VERB
+trớ trêu;VERB
+trợ bút;NOUN
+trợ cấp;VERB,NOUN
+trợ chiến;VERB
+trợ động từ;NOUN
+trợ giáo;NOUN
+trợ lực;VERB
+trợ lý;NOUN
+trợ tá;NOUN
+trợ thời;ADJ
+trợ thủ;NOUN
+trợ từ;NOUN
+trời;NOUN,ADV
+trời già;NOUN
+trời ơi;ADJ
+trời xanh;NOUN
+trờm;ADJ
+trơn;ADJ
+trơn tru;ADJ
+trơn tuột;ADJ,VERB
+trờn trợn;VERB,VERB
+trớn;NOUN
+trợn;VERB,ADJ
+trợn trạo;VERB,ADJ
+trợn trừng;VERB
+trớt;ADV,ADJ
+trợt;ADJ
+trợt lớt;VERB
+tru;VERB
+tru di;VERB
+tru diệt;VERB
+tru tréo;VERB
+trù;VERB
+trù bị;VERB
+trù hoạch;VERB
+trù khoản;NOUN
+trù liệu;VERB
+trù mật;VERB
+trù phú;ADJ
+trù tính;VERB
+trù trừ;VERB
+trủ;NOUN
+trú;VERB
+trú ẩn;VERB
+trú binh;VERB
+trú chân;VERB
+trú dạ;NOUN
+trú dân;NOUN
+trú ngụ;VERB
+trú phòng;VERB
+trú phường;NOUN
+trú quán;NOUN
+trú quân;VERB
+trú sở;NOUN
+trụ;NOUN,VERB
+trụ cột;VERB
+trụ sở;NOUN
+trụ thạch;NOUN
+trụ trì;VERB,NOUN
+truân chuyên;ADJ
+truất;VERB
+truất ngôi;VERB
+truất phế;VERB
+trúc;NOUN,VERB
+trúc bâu;NOUN
+trúc côn;NOUN
+trúc đào;NOUN
+trúc mai;NOUN
+trúc tơ;NOUN
+trúc trắc;ADJ
+trục;NOUN,VERB
+trục chuyền;NOUN
+trục lợi;VERB
+trục quay;NOUN
+trục trặc;ADJ
+trục xuất;VERB
+trùi trũi;ADJ
+trụi;ADJ
+trụi lủi;ADJ
+trùm;NOUN,VERB
+trúm;NOUN
+trụm;ADJ
+trùn;NOUN
+trung;ADJ
+trung bình;ADJ
+trung bình cộng;NOUN
+trung bình nhân;NOUN
+trung bộ;NOUN
+trung can;ADJ
+trung cấp;ADJ
+trung châu;NOUN
+trung chính;ADJ
+trung chuyển;VERB
+trung cổ;NOUN
+trung diệp;NOUN
+trung du;NOUN
+trung dung;ADJ
+trung dũng;ADJ
+trung đẳng;ADJ
+trung điểm;NOUN
+trung đoàn;NOUN
+trung đoàn bộ;NOUN
+trung đoàn trưởng;NOUN
+trung đoạn;NOUN
+trung độ;NOUN
+trung đội;NOUN
+trung đội trưởng;NOUN
+trung đường;NOUN
+trung gian;ADJ,NOUN
+trung hậu;ADJ
+trung hiếu;ADJ
+trung hoà;VERB
+trung học;NOUN
+trung hưng;VERB
+trung khu;NOUN
+trung khúc;NOUN
+trung kiên;ADJ,NOUN
+trung lập;ADJ
+trung liên;NOUN
+trung liệt;ADJ
+trung lộ;NOUN
+trung lương;ADJ
+trung lưu;NOUN
+trung não;NOUN
+trung nghĩa;ADJ
+trung ngôn;NOUN
+trung nguyên;NOUN
+trung niên;ADJ
+trung nông;NOUN
+trung phần;NOUN
+trung phong;NOUN
+trung quân;NOUN,VERB
+trung sĩ;NOUN
+trung tá;NOUN
+trung táo;ADJ
+trung tâm;NOUN,ADJ
+trung tâm điểm;NOUN
+trung thành;ADJ
+trung thần;NOUN
+trung thế kỷ;NOUN
+trung thọ;ADJ
+trung thu;NOUN
+trung thực;ADJ
+trung tiện;VERB
+trung tín;ADJ
+trung tính;ADJ
+trung tố;NOUN
+trung trinh;ADJ
+trung trực;ADJ,NOUN
+trung tu;VERB
+trung tuần;NOUN
+trung tuyến;NOUN
+trung tướng;NOUN
+trung ương;ADJ,NOUN
+trung văn;NOUN
+trung vệ;NOUN
+trung y;NOUN
+trùng;NOUN,VERB
+trùng cửu;NOUN
+Trùng cửu;NOUN
+trùng dương;NOUN
+trùng điệp;ADJ
+trùng hợp;VERB
+trùng ngũ;NOUN
+trùng phùng;VERB
+trùng phương;ADJ
+trùng sinh;VERB
+trùng tang;ADJ
+trùng trình;VERB
+trùng trục;NOUN,ADJ
+trùng tu;VERB
+trùng vi;NOUN
+trũng;ADJ,NOUN
+trúng;ADJ,VERB
+trúng cách;VERB
+trúng cử;VERB
+trúng độc;VERB
+trúng kế;VERB
+trúng phong;VERB
+trúng số;ADJ
+trúng thử;ADJ
+trúng thực;VERB
+trúng tủ;VERB
+trúng tuyển;VERB
+trụng;VERB
+truông;NOUN
+truồng;VERB
+trút;NOUN,VERB
+truy;VERB
+truy cứu;VERB
+truy điệu;VERB
+truy đuổi;VERB
+truy hoan;VERB
+truy hỏi;VERB
+truy hô;VERB
+truy kích;VERB
+truy lĩnh;VERB
+truy lùng;VERB
+truy nã;VERB
+truy nguyên;VERB
+truy nhận;VERB
+truy phong;VERB,ADJ
+truy tặng;VERB
+truy tố;VERB
+truy tuỳ;VERB
+truy tưởng;VERB
+truy vấn;VERB
+truyền;VERB
+truyền bá;VERB
+truyền bảo;VERB
+truyền cảm;VERB
+truyền đạo;VERB
+truyền đạt;VERB
+truyền đơn;NOUN
+truyền giáo;VERB
+truyền hình;VERB
+truyền khẩu;VERB
+truyền lệnh;VERB
+truyền miệng;VERB
+truyền nhiễm;VERB
+truyền thanh;VERB
+truyền thần;VERB
+truyền thống;NOUN,ADJ
+truyền thụ;VERB
+truyền thuyết;NOUN
+truyền tụng;VERB
+truyện;NOUN
+truyện dài;NOUN
+truyện ký;NOUN
+truyện ngắn;NOUN
+truyện phim;NOUN
+trừ;VERB
+trừ bì;VERB
+trừ bị;ADJ
+trừ bỏ;VERB
+trừ bữa;VERB
+trừ căn;VERB
+trừ diệt;VERB
+trừ gian;VERB
+trừ hại;VERB
+trừ hao;VERB
+trừ khử;VERB
+trừ phi;CONJ
+trừ phục;NOUN
+trừ quân;NOUN
+trừ tà;VERB
+trữ;VERB
+trữ kim;NOUN
+trữ lượng;NOUN
+trữ tình;ADJ
+trứ danh;ADJ
+trưa;NOUN,ADJ
+trực;VERB,ADJ
+trực ban;VERB,NOUN
+trực chiến;VERB
+trực giác;NOUN
+trực giác luận;NOUN
+trực giao;VERB
+trực hệ;NOUN
+trực khuẩn;NOUN
+trực ngôn;NOUN
+trực nhật;VERB,NOUN
+trực quan;VERB
+trực tâm;NOUN
+trực thăng;NOUN
+trực thuộc;VERB
+trực tiếp;ADJ
+trực tính;ADJ
+trực tràng;NOUN
+trưng;VERB
+trưng bày;VERB
+trưng binh;VERB
+trưng cầu;VERB
+trưng dụng;VERB
+trưng mua;VERB
+trưng tập;VERB
+trưng thầu;VERB
+trưng thu;VERB
+trưng triệu;NOUN
+trừng;VERB
+trừng phạt;VERB
+trừng trị;VERB
+trừng trộ;VERB
+trừng trừng;ADJ
+trứng;NOUN
+trứng cá;NOUN
+trứng cuốc;ADJ
+trứng lộn;NOUN
+trứng sam;NOUN
+trứng sáo;NOUN
+trước;NOUN,CONJ
+trước bạ;VERB
+trước đây;ADV
+trước giả;NOUN
+trước hết;NOUN
+trước khi;ADV
+trước kia;NOUN
+trước mắt;NOUN
+trước nay;NOUN
+trước nhất;NOUN
+trước sau;NOUN
+trước tác;VERB,NOUN
+trước tiên;NOUN
+trườn;VERB
+trương;NOUN,VERB
+trương tuần;NOUN
+trường;NOUN,ADJ
+trường bay;NOUN
+trường ca;NOUN
+trường chinh;VERB
+trường cửu;ADJ
+trường đua;NOUN
+trường học;NOUN
+trường hợp;NOUN
+trường kỳ;ADJ
+trường kỷ;NOUN
+trường ốc;NOUN
+trường phái;NOUN
+trường quy;NOUN
+trường sinh;ADJ
+trường sở;NOUN
+trường thành;NOUN
+trường thi;NOUN
+trường thiên;ADJ
+trường thọ;VERB
+trường tồn;VERB
+trưởng;NOUN,ADJ
+trưởng bạ;NOUN
+trưởng ban;NOUN
+trưởng ga;NOUN
+trưởng giả;NOUN,ADJ
+trưởng giáo;NOUN
+trưởng họ;NOUN
+trưởng kíp;NOUN
+trưởng lão;NOUN
+trưởng nam;NOUN
+trưởng nữ;NOUN
+trưởng phòng;NOUN
+trưởng thành;VERB
+trưởng tộc;NOUN
+trưởng tử;NOUN
+trưởng ty;NOUN
+trướng;NOUN,ADJ
+Trướng huỳnh;NOUN
+trượng;NOUN,VERB
+trượng phu;NOUN
+trượt;VERB,ADJ
+trượt băng;VERB
+trượt tuyết;VERB
+trừu tượng;ADJ
+trừu tượng hoá;VERB
+tu;VERB
+tu bổ;VERB
+tu chí;VERB
+tu chính;VERB
+tu dưỡng;VERB
+tu hành;VERB
+tu hú;NOUN
+tu huýt;NOUN
+tu kín;VERB
+tu luyện;VERB
+tu mi;NOUN
+tu nghiệp;VERB
+tu sĩ;NOUN
+tu sửa;VERB
+tu tạo;VERB
+tu thân;VERB
+tu thư;ADJ
+tu tỉnh;VERB
+tu từ;ADJ
+tu từ học;NOUN
+tu viện;NOUN
+tù;VERB,ADJ
+tù binh;NOUN
+tù hãm;ADJ
+tù ngồi;VERB
+tù phạm;NOUN
+tù tội;ADJ
+tù treo;VERB
+tù trưởng;NOUN
+tù túng;ADJ
+tù và;NOUN
+tủ;NOUN,VERB
+tủ chè;NOUN
+tủ kính;NOUN
+tủ lạnh;NOUN
+tủ sách;NOUN
+tủ sắt;NOUN
+tủ thuốc;NOUN
+tú;NOUN
+tú cầu;NOUN
+tú khí;NOUN
+tú tài;NOUN
+tụ;VERB
+tụ bạ;VERB
+tụ điện;NOUN
+tụ họp;VERB
+tụ hội;VERB
+tụ huyết;NOUN
+tụ tập;VERB
+tua;NOUN,VERB
+tua-bin;NOUN
+tua-ma-lin;VERB
+tua rua;NOUN
+tua tủa;ADJ
+tủa;VERB
+túa;VERB
+tuân;VERB
+tuân hành;VERB
+tuân thủ;VERB
+tuần;NOUN,VERB
+tuần báo;NOUN
+tuần du;VERB
+tuần dương hạm;NOUN
+tuần đinh;NOUN
+tuần giờ;VERB
+tuần hành;VERB
+tuần hoàn;VERB
+tuần lễ;NOUN
+tuần phiên;NOUN
+tuần phòng;VERB
+tuần phu;NOUN
+tuần phủ;NOUN
+tuần san;NOUN
+tuần thú;VERB
+tuần tiễu;VERB
+tuần tra;VERB
+tuần trăng mật;NOUN
+tuần ty;NOUN
+tuẫn nạn;VERB
+tuẫn táng;VERB
+tuẫn tiết;VERB
+tuấn kiệt;NOUN
+tuấn mã;NOUN
+tuấn tú;ADJ
+tuất;NOUN
+túc dụng;NOUN
+túc duyên;NOUN
+túc hạ;NOUN
+túc học;NOUN
+túc khiên;NOUN
+túc mễ cục;NOUN
+túc nhân;NOUN
+túc nho;NOUN
+túc trái;NOUN
+túc trực;VERB
+tục;NOUN,ADJ
+tục biên;VERB
+tục danh;NOUN
+tục hôn;VERB
+tục huyền;VERB
+tục lệ;NOUN
+tục ngữ;NOUN
+tục tác;VERB
+tục tằn;ADJ
+tục tĩu;ADJ
+tục truyền;VERB
+tục tử;NOUN
+tuế cống;VERB
+tuế nguyệt;NOUN
+tuế toái;ADJ
+tuệ tinh;NOUN
+tuệch toạc;ADJ
+tui;NOUN
+tủi;VERB
+tủi duyên;ADJ
+tủi hổ;ADJ
+tủi nhục;ADJ
+tủi phận;ADJ
+tủi tay;ADJ
+tủi thân;VERB
+túi;NOUN
+túi bụi;ADJ
+túi dết;NOUN
+túi tham;NOUN
+túi tiền;NOUN
+tụi;NOUN
+tum;NOUN
+tum húp;ADJ
+tùm;NOUN,ADJ
+tùm hum;ADJ
+tùm hụp;ADJ
+tủm tỉm;VERB
+tũm;ADJ
+túm;VERB,NOUN
+túm tụm;VERB
+tụm;VERB
+tun hút;ADJ
+tủn mủn;ADJ
+tung;VERB
+tung độ;NOUN
+tung hoành;VERB
+Tung hoành;VERB
+tung hô;VERB
+tung tăng;VERB
+tung thâm;NOUN
+tung tích;NOUN
+tung toé;VERB
+tùng;NOUN
+tùng bách;NOUN
+tùng đàm;NOUN
+tùng hương;NOUN
+tùng quân;NOUN
+tùng san;NOUN
+tùng thư;NOUN
+tùng tiệm;VERB
+tùng xẻo;VERB
+túng;ADJ
+túng bấn;ADJ
+túng quẫn;ADJ
+túng thế;ADJ
+túng thiếu;ADJ
+tụng;VERB
+tụng đình;NOUN
+tụng kỳ;NOUN
+tụng niệm;VERB
+tuồi;VERB
+tuổi;NOUN
+tuổi đời;NOUN
+tuổi già;NOUN
+tuổi hạc;NOUN
+tuổi mụ;NOUN
+tuổi nghề;NOUN
+tuổi tác;NOUN
+tuổi thọ;NOUN
+tuổi thơ;NOUN
+tuổi tôi;NOUN
+tuổi trẻ;NOUN
+tuổi xanh;NOUN
+tuôn;VERB
+tuồn;VERB
+tuồn tuột;ADJ
+tuồng;NOUN
+tuồng luông;ADJ
+tuốt;VERB,ADJ,PRONN
+tuột;VERB,ADJ
+túp;NOUN
+tụt;VERB
+tụt nõ;ADJ
+tuy;CONJ
+tuy nhiên;CONJ
+tuy rằng;CONJ
+tuy thế;CONJ
+tuy vậy;CONJ
+tuỳ;VERB
+tuỳ tiện;ADJ
+tuyên án;VERB
+tuyên bố;VERB,NOUN
+tuyên cáo;VERB
+tuyên chiến;VERB
+tuyên dương;VERB
+tuyên giáo;VERB
+tuyên huấn;VERB
+tuyên ngôn;NOUN
+tuyên thệ;VERB
+tuyên truyền;VERB
+tuyền;ADJ
+tuyền đài;NOUN
+Tuyền đài;NOUN
+tuyển;VERB
+tuyển binh;VERB
+tuyển cử;VERB
+tuyển dụng;VERB
+tuyển lựa;VERB
+tuyển mộ;VERB
+tuyển sinh;VERB
+tuyển tập;NOUN
+tuyển thủ;NOUN
+tuyển trạch;VERB
+tuyến;NOUN
+tuyến đường;NOUN
+tuyết;NOUN
+tuyết cừu;VERB
+tuyết hận;VERB
+tuyết sương;NOUN
+tuyệt;VERB,ADJ
+tuyệt bút;NOUN
+tuyệt chủng;VERB
+tuyệt cú;NOUN,ADJ
+tuyệt diệu;ADJ
+tuyệt đại đa số;NOUN
+tuyệt đích;NOUN
+tuyệt đỉnh;NOUN
+tuyệt đối;ADJ
+tuyệt giao;VERB
+tuyệt hảo;ADJ
+tuyệt luân;ADJ
+tuyệt mệnh;VERB
+tuyệt phẩm;NOUN
+tuyệt sắc;ADJ
+tuyệt tác;NOUN
+tuyệt thế;ADJ
+tuyệt thực;VERB
+tuyệt tích;VERB
+tuyệt tình;VERB
+tuyệt trần;ADJ
+tuyệt tự;ADJ
+tuyệt vọng;VERB
+tuyệt vô âm tín;ADJ
+tuyệt vời;ADJ
+tư;NOUN,VERB,ADJ
+tư bản;NOUN,ADJ
+tư bản bất biến;NOUN
+tư bản cố định;NOUN
+tư bản khả biến;NOUN
+tư cách;NOUN
+tư cấp;VERB
+tư chất;NOUN
+tư doanh;ADJ
+tư duy;NOUN
+tư điền;NOUN
+tư đồ;NOUN
+tư đức;NOUN
+tư gia;NOUN
+tư hiềm;NOUN
+tư hữu;ADJ
+tư kỷ;ADJ
+tư lập;ADJ
+tư lệnh;NOUN
+tư liệu;NOUN
+tư liệu lao động;NOUN
+tư lợi;NOUN
+tư lự;VERB
+tư lương;VERB
+tư mã;NOUN
+tư nhân;NOUN
+tư pháp;NOUN
+tư sản;NOUN,ADJ
+tư sản dân tộc;NOUN
+tư sản mại bản;NOUN
+tư tâm;NOUN
+tư thái;NOUN
+tư thất;NOUN
+tư thế;NOUN
+tư thông;VERB
+tư thù;NOUN
+tư thục;NOUN
+tư tình;NOUN
+tư trang;NOUN
+tư trào;NOUN
+tư trợ;VERB
+tư túi;VERB
+tư tưởng;NOUN
+tư văn;NOUN
+tư vấn;VERB
+tư vị;VERB
+tư ý;NOUN
+từ;NOUN,VERB,CONJ
+từ ái;ADJ
+từ bi;NOUN,ADJ
+từ biệt;VERB
+từ bỏ;VERB
+từ căn;NOUN
+từ chối;VERB
+từ chức;VERB
+từ chương;NOUN
+từ cực;NOUN
+từ điển;NOUN
+từ điển học;NOUN
+từ đường;NOUN
+từ giã;VERB
+từ hàn;NOUN
+từ học;NOUN
+từ hôn;VERB
+từ khuynh;NOUN
+từ loại;NOUN
+từ mẫu;NOUN
+từ nan;VERB
+từ nguyên;NOUN
+từ ngữ;NOUN
+từ pháp;NOUN
+từ phổ;NOUN
+từ tạ;VERB
+từ tâm;NOUN
+từ thạch;NOUN
+từ thiên;NOUN
+từ thiện;ADJ
+từ thông;NOUN
+từ tính;NOUN
+từ tốn;ADJ
+từ trần;VERB
+từ trường;NOUN
+từ từ;ADJ
+từ vị;NOUN
+từ vựng;NOUN
+từ vựng học;NOUN
+tử;NOUN,VERB
+tử biệt;VERB
+tử chiến;VERB
+tử cung;NOUN
+tử đệ;NOUN
+tử địa;NOUN
+tử hình;NOUN
+tử khí;NOUN
+tử lộ;NOUN
+tử nạn;VERB
+tử ngoại;ADJ,NOUN
+tử ngữ;NOUN
+tử sĩ;NOUN
+tử sinh;VERB
+tử số;NOUN
+tử tế;ADJ
+tử thần;NOUN
+tử thi;NOUN
+tử thù;NOUN
+tử thương;VERB
+tử tiết;VERB
+tử tội;NOUN
+tử tôn;NOUN
+tử trận;VERB
+tử tức;NOUN
+tử tước;NOUN
+tử vi;NOUN
+tử vong;VERB
+tứ;NOUN
+tứ bàng;NOUN
+tứ bảo;NOUN
+tứ bình;NOUN
+tứ chi;NOUN
+tứ chiếng;ADJ
+tứ dân;NOUN
+tứ diện;NOUN
+tứ đức;NOUN
+tứ giác;NOUN
+tứ khoái;NOUN
+tứ linh;NOUN
+tứ phía;NOUN
+tứ phương;NOUN
+tứ quý;NOUN
+tứ sắc;NOUN
+tứ thanh;NOUN
+tứ thể;ADJ,NOUN
+tứ thiết;NOUN
+tứ thời;NOUN
+tứ thư;NOUN
+tứ trụ;NOUN
+tứ tuần;NOUN
+tứ tung;ADJ
+tứ tuyệt;NOUN
+tứ vi;NOUN
+tứ xứ;NOUN
+tự;NOUN,PRONN,CONJ
+tự ải;VERB
+tự ái;VERB
+tự cảm;VERB
+tự cao;ADJ
+tự cấp;VERB
+tự chủ;VERB
+tự cường;VERB
+tự dạng;NOUN
+tự do;NOUN,ADJ
+tự do chủ nghĩa;ADJ
+tự do dân chủ;NOUN
+tự dưng;ADJ
+tự dưỡng;VERB
+tự đắc;ADJ
+tự điền;NOUN
+tự điển;NOUN
+tự động;ADJ
+tự giác;ADJ
+tự hành;ADJ
+tự hào;ADJ
+tự khi;VERB
+tự khiêm;ADJ
+tự khoa;VERB
+tự kiêu;ADJ
+tự kỷ ám thị;VERB
+tự ký;ADJ
+tự lập;VERB
+tự liệu;VERB
+tự lực;ADJ
+tự lượng;VERB
+tự mãn;ADJ
+tự ngôn;NOUN
+tự nguyện;VERB
+tự nhiên;NOUN,ADJ
+tự phát;ADJ
+tự phê;VERB
+tự phê bình;VERB
+tự phong;VERB
+tự phụ;ADJ
+tự quản;VERB
+tự quân;NOUN
+tự quyết;VERB
+tự sát;VERB
+tự sinh;ADJ
+tự sự;NOUN
+tự tại;ADJ
+tự tân;VERB
+tự tận;VERB
+tự thân;NOUN
+tự thị;ADJ
+tự thú;VERB
+tự thuật;VERB
+tự thừa;ADJ
+tự ti;ADJ
+tự tích;NOUN
+tự tiện;ADJ
+tự tin;VERB
+tự tín;VERB
+tự tình;VERB
+tự tôn;ADJ,NOUN
+tự trị;VERB
+tự trọng;VERB
+tự truyện;NOUN
+tự tu;VERB
+tự túc;VERB,ADJ
+tự tử;VERB
+tự vẫn;VERB
+tự vệ;VERB,NOUN
+tự vị;NOUN
+tự viện;NOUN
+tự vựng;NOUN
+tự xưng;VERB
+tự ý;ADJ
+tưa;NOUN,ADJ
+từa tựa;ADJ
+tứa;VERB,VERB
+tựa;NOUN,VERB,ADJ
+tựa hồ;VERB
+tức;NOUN,VERB,CONJ
+tức bực;VERB
+tức cảnh;VERB
+tức cười;VERB
+tức giận;VERB
+tức khí;VERB
+tức là;VERB
+tức mình;VERB
+tức thị;VERB
+tức tốc;VERB
+tức tối;ADJ
+tức tức;ADJ
+tức vị;VERB
+tưng bừng;ADJ
+từng;NOUN,PRONN
+từng trải;VERB
+tước;NOUN,VERB
+tước đoạt;VERB
+tước lộc;NOUN
+tước vị;NOUN
+tươi;ADJ
+tươi cười;ADJ
+tươi sáng;ADJ
+tươi tắn;ADJ
+tươi tỉnh;ADJ
+tươi tốt;ADJ
+tưới;VERB
+tươm;VERB,ADJ
+tươm tất;ADJ
+tương;NOUN,VERB
+tương can;VERB
+tương đắc;ADJ
+tương đối;ADJ
+tương đồng;ADJ
+tương đương;ADJ
+tương giao;VERB,NOUN
+tương hỗ;ADJ
+tương hội;VERB
+tương hợp;VERB
+tương khắc;ADJ
+tương kiến;VERB
+tương lai;NOUN
+tương ngộ;VERB
+tương phản;ADJ
+tương phùng;VERB
+tương quan;ADJ
+tương tàn;VERB
+tương tế;VERB
+tương thân;VERB
+tương tri;VERB
+tương trợ;VERB
+tương truyền;VERB
+tương tư;VERB
+tương tự;ADJ
+tương ứng;ADJ
+tương xứng;ADJ
+tường;NOUN,VERB
+tường hoa;NOUN
+tường tận;ADJ
+tường thuật;VERB
+tường trình;VERB
+tường vi;NOUN
+tưởng;VERB
+tưởng bở;VERB
+tưởng lệ;VERB
+tưởng lục;NOUN
+tưởng nhớ;VERB
+tưởng tượng;VERB,NOUN,ADJ
+tưởng vọng;VERB
+tướng;NOUN,ADJ
+tướng công;NOUN
+tướng giặc;NOUN
+tướng lĩnh;NOUN
+tướng mạo;NOUN
+tướng quân;NOUN
+tướng quốc;NOUN
+tướng sĩ;NOUN
+tướng soái;NOUN
+tướng số;NOUN
+tướng tá;NOUN
+tướng thuật;NOUN
+tượng;NOUN,ADJ
+tượng binh;NOUN
+tượng hình;VERB
+tượng thanh;VERB
+tượng trưng;VERB,NOUN,ADJ
+tướt;NOUN,ADJ
+tượt;VERB,ADJ
+tườu;NOUN
+tửu;NOUN
+tửu điếm;NOUN
+tửu lượng;NOUN
+tửu quán;NOUN
+tửu sắc;NOUN
+tựu chức;VERB
+tựu nghĩa;VERB
+tựu trung;CONJ
+tựu trường;VERB
+u;NOUN,ADJ
+u ám;ADJ
+u ẩn;ADJ
+u hiển;NOUN
+u hồn;NOUN
+u sầu;ADJ
+u tịch;ADJ
+u uất;ADJ
+ù;VERB,ADJ
+ủ;VERB
+ủ dột;ADJ
+ủ ê;ADJ
+ủ rũ;ADJ
+ú ớ;ADJ
+ú ụ;ADV
+ùa;VERB,ADJ
+úa;VERB
+uẩn khúc;NOUN
+uất hận;NOUN,VERB
+uất ức;VERB
+ục ịch;ADJ
+uể oải;ADJ
+uế khí;NOUN
+ủi;VERB
+úi;VERB
+um tùm;ADJ
+ùm;ADJ
+ung;NOUN,ADJ
+ung dung;ADJ
+ung nhọt;NOUN
+ung thư;NOUN
+ủng;NOUN,ADJ
+ủng hộ;VERB
+úng;ADJ
+uốn;VERB
+uốn nắn;VERB
+uống;VERB
+úp;VERB
+úp mở;VERB
+út;ADJ
+ụt ịt;VERB,ADJ
+uy danh;NOUN
+uy hiếp;VERB
+uy lực;NOUN
+uy nghi;ADJ
+uy quyền;NOUN
+uy thế;NOUN
+uy tín;NOUN
+uỵch;ADJ,VERB
+uyên bác;ADJ
+uyên thâm;ADJ
+uyển chuyển;ADJ
+ứ;VERB
+ứ đọng;VERB
+ưa;VERB
+ưa nhìn;ADJ
+ứa;VERB
+ức;NOUN,VERB
+ức chế;VERB
+ực;ADJ
+ưng;NOUN,VERB
+ưng thuận;VERB
+ứng biến;VERB
+ứng dụng;VERB,NOUN
+ứng đáp;VERB
+ứng khẩu;VERB
+ứng phó;VERB
+ứng thí;VERB
+ước;NOUN,VERB
+ước chừng;VERB
+ước định;VERB
+ước hẹn;VERB
+ước lượng;VERB
+ướm;VERB
+ươn;ADJ
+ươn hèn;ADJ
+ưỡn ẹo;ADJ
+ương ngạnh;ADJ
+ướp;VERB
+ướp lạnh;VERB
+ướt;ADJ
+ướt át;ADJ
+ướt đẫm;ADJ
+ưu ái;VERB
+ưu điểm;NOUN
+ưu phiền;VERB
+ưu sầu;VERB
+ưu tiên;ADJ,VERB
+ưu việt;ADJ
+va;VERB,PRONN
+và;VERB,CONJ,ADV
+vả;NOUN,VERB,PRONN,CONJ
+vả lại;CONJ
+vá;NOUN,VERB,ADJ
+vá víu;VERB,ADJ
+vạ;NOUN
+vác;VERB,NOUN
+vạc;NOUN,VERB
+vạc dầu;NOUN
+vách;NOUN
+vạch;VERB,NOUN
+vạch trần;VERB
+vai;NOUN
+vai trò;NOUN
+vài;NOUN
+vải;NOUN
+vại;NOUN
+vàm;NOUN
+van;NOUN,VERB
+van nài;VERB
+van xin;VERB
+vãn;NOUN
+vãn hồi;VERB
+ván;NOUN
+vạn;NOUN,ADJ
+vạn năng;ADJ
+vạn sự;NOUN
+vạn thọ;NOUN,VERB
+vạn vật;NOUN
+vang;NOUN,VERB
+vang lừng;VERB
+vàng;NOUN,ADJ
+vàng anh;NOUN
+vàng khè;ADJ
+vàng mười;NOUN
+vàng son;NOUN
+vàng tây;NOUN
+vãng lai;VERB
+váng;NOUN,ADJ
+vành;NOUN,VERB
+vành đai;NOUN
+vành tai;NOUN
+vào;VERB,CONJ,ADV
+vào hùa;VERB
+vạt;NOUN,VERB
+vay;VERB
+vảy;NOUN,VERB
+váy;NOUN
+vằm;VERB
+văn bằng;NOUN
+văn cảnh;NOUN
+văn chương;NOUN
+văn đàn;NOUN
+văn học;NOUN
+văn kiện;NOUN
+văn minh;NOUN,ADJ
+văn phong;NOUN
+văn phòng;NOUN
+văn phòng phẩm;NOUN
+văn thơ;NOUN
+văn vật;NOUN
+văn vẻ;ADJ
+vắn;ADJ
+vặn;VERB
+văng;NOUN,VERB
+vẳng;VERB
+vắng;ADJ
+vắng vẻ;ADJ
+vắt;NOUN,VERB
+vắt óc;VERB
+vặt;VERB,ADJ
+vặt vãnh;ADJ
+vân;NOUN
+vân du;VERB
+vân vân;NOUN
+vân vê;VERB
+vần;NOUN,VERB
+vẩn đục;ADJ
+vấn;VERB
+vấn an;VERB
+vấn đáp;VERB
+vấn đề;NOUN
+vấn vít;VERB
+vận;NOUN,VERB
+vận chuyển;VERB
+vận hành;VERB
+vận tải;VERB
+vận tốc;NOUN
+vâng;VERB
+vấp;VERB
+vất vả;ADJ
+vật;NOUN,VERB
+vật chất;NOUN,ADJ
+vật liệu;NOUN
+vật thể;NOUN
+vẩu;ADJ
+vây;NOUN,VERB
+vây cánh;NOUN
+vầy;VERB
+vầy đoàn;VERB
+vầy lửa;VERB
+vẫy;VERB
+vấy;VERB
+vấy vá;VERB
+vậy;PRONN,ADV
+ve;NOUN,VERB,ADJ
+ve sầu;NOUN
+ve vẩy;VERB
+vè;NOUN,VERB
+vẻ;NOUN
+vẻ lan;NOUN
+vẻ ngân;ADJ
+vẻ vang;ADJ
+vẽ;VERB
+vé;NOUN
+vén;VERB
+vẹn toàn;ADJ
+vẹn vẽ;ADJ
+vèo;VERB
+véo;VERB
+véo von;ADJ
+vét;NOUN,VERB
+vẹt;NOUN,ADJ,VERB
+vê;VERB
+về;VERB,CONJ
+vế;NOUN
+vệ;NOUN
+vệ binh;NOUN
+vệ sinh;NOUN,ADJ,VERB
+vệ tinh;NOUN
+vênh;ADJ,VERB
+vênh váo;ADJ
+vểnh;VERB
+vết;NOUN
+vết thương;NOUN
+vệt;NOUN
+vi khuẩn;NOUN
+vi phạm;VERB
+vi vút;ADJ
+vì;NOUN,VERB,CONJ
+vì thế;CONJ
+vỉ;NOUN
+vĩ đại;ADJ
+vĩ độ;NOUN
+vĩ tuyến;NOUN
+ví;NOUN,VERB,CONJ
+ví thử;CONJ
+vị;NOUN,CONJ
+vị chi;VERB
+vị giác;NOUN
+vị lai;NOUN
+vị ngữ;NOUN
+vị tha;ADJ
+vị trí;NOUN
+vỉa;NOUN
+vỉa hè;NOUN
+việc;NOUN
+việc làm;NOUN
+viêm;NOUN
+viên chức;NOUN
+viên ngoại;NOUN
+viền;VERB
+viễn cảnh;NOUN
+viễn khách;NOUN
+viễn thông;NOUN
+viện;NOUN,VERB
+viện trợ;VERB,NOUN
+viếng thăm;VERB
+viết;VERB,NOUN
+việt vị;NOUN
+vịn;VERB
+vinh;ADJ
+vinh dự;NOUN
+vinh hạnh;NOUN,ADJ
+vĩnh cửu;ADJ
+vĩnh quyết;VERB
+vĩnh viễn;ADJ
+vịnh;NOUN,VERB
+vít;NOUN,VERB
+vịt;NOUN
+vò;NOUN,VERB
+vò võ;ADJ
+vỏ;NOUN,ADJ
+võ;NOUN,ADJ
+võ nghệ;NOUN
+vó;NOUN
+vó câu;NOUN
+vóc dáng;NOUN
+voi;NOUN
+vòi;NOUN,VERB
+vòi voi;NOUN
+vòm;NOUN
+vong ân;VERB
+vong linh;NOUN
+vòng;NOUN,VERB,ADJ
+vòng hoa;NOUN
+vòng kiềng;NOUN
+vòng quanh;VERB
+vòng vèo;ADJ
+võng;NOUN,VERB,ADJ
+võng mạc;NOUN
+vọng;NOUN,VERB
+vọng gác;NOUN
+Vọng phu;VERB
+vót;VERB,ADJ
+vọt;NOUN,VERB
+vô biên;ADJ
+vô bổ;ADJ
+vô chủ;ADJ
+vô cơ;ADJ
+vô cực;NOUN
+vô danh;ADJ
+vô định;ADJ
+vô độ;ADJ
+vô giá;ADJ
+vô hại;ADJ
+vô hiệu;ADJ
+vô hình;ADJ
+vô ích;ADJ
+vô loại;ADJ
+vô lý;ADJ
+vô nghĩa;ADJ
+vô phép;ADJ,VERB
+vô sản;NOUN,ADJ
+vô sinh;ADJ
+vô số;ADJ
+vô sự;ADJ
+vô tận;ADJ
+vô thần;ADJ
+vô thừa nhận;ADJ
+vô tình;ADJ
+vô tội;ADJ
+vô tư;ADJ
+vô tư lự;ADJ
+vô vị;ADJ
+vô ý thức;ADJ
+vồ vập;ADJ
+vỗ;VERB
+vỗ béo;VERB
+vỗ tay;VERB
+vỗ về;VERB
+vốc;VERB,NOUN
+vôi;NOUN
+vội;ADJ
+vội vã;ADJ
+vồn vã;ADJ
+vốn;NOUN
+vống;ADJ
+vơ;VERB,ADJ
+vờ;NOUN,VERB
+vờ vịt;VERB
+vỡ;VERB
+vỡ lòng;VERB
+vỡ mủ;ADJ
+vỡ nợ;VERB
+vớ;NOUN,VERB
+vớ vẩn;ADJ
+vợ;NOUN
+vợ bé;NOUN
+vời;NOUN,ADJ,VERB
+với;VERB,NOUN,CONJ,ADV
+vờn;VERB
+vớt;VERB
+vợt;NOUN,VERB
+vu khống;VERB
+vu oan;VERB
+vu vơ;ADJ
+vù;ADJ
+vũ;NOUN
+vũ bão;NOUN
+vũ đài;NOUN
+vũ khúc;NOUN
+vũ nữ;NOUN
+vũ trụ;NOUN
+vú;NOUN
+vú em;NOUN
+vụ;NOUN,VERB
+vụ lợi;VERB
+vua;NOUN
+vùi;VERB,ADJ
+vun;VERB,ADJ
+vun trồng;VERB
+vụn;ADJ,NOUN
+vụn vặt;ADJ
+vung;NOUN,VERB
+vùng;NOUN,VERB
+vùng vằng;VERB
+vùng vẫy;VERB
+vũng;NOUN
+vụng;NOUN,ADJ
+vuông;ADJ,NOUN
+vuốt;NOUN,VERB
+vuốt ve;VERB
+vụt;VERB
+vừa;ADJ
+vừa lòng;ADJ
+vữa;NOUN,ADJ
+vựa;NOUN
+vực;NOUN,VERB
+vừng;NOUN
+vững;ADJ
+vững bền;ADJ
+vững chắc;ADJ
+vươn;VERB
+vườn;NOUN,ADJ
+vườn bách thú;NOUN
+vượn;NOUN
+vương;NOUN,VERB
+vương vãi;VERB
+vương vấn;VERB
+vướng;VERB
+vượng;VERB
+vượt;VERB
+vứt;VERB
+xa;NOUN,ADJ,VERB
+xa cách;VERB
+xa hoa;ADJ
+xa lạ;ADJ
+xa lánh;VERB
+xa lộ;NOUN
+xa xăm;ADJ
+xa xỉ;ADJ
+xà;NOUN
+xà beng;NOUN
+xà cừ;NOUN
+xà lách;NOUN
+xà lan;NOUN
+xà lim;NOUN
+xả;VERB
+xả thân;VERB
+xã;NOUN
+xã giao;ADJ
+xã hội;NOUN
+xã hội chủ nghĩa;NOUN,ADJ
+xã hội học;NOUN
+xã luận;NOUN
+xã tắc;NOUN
+xá;VERB
+xá tội;VERB
+xạ hương;NOUN
+xạ kích;NOUN
+xạ thủ;NOUN
+xác;NOUN,ADJ
+xác đáng;ADJ
+xác định;VERB,ADJ
+xác nhận;VERB
+xác thực;ADJ
+xác xơ;ADJ
+xách;VERB
+xài;VERB
+xám;ADJ
+xám xịt;ADJ
+xán lạn;ADJ
+xanh;NOUN,ADJ
+xanh biếc;ADJ
+xanh lá cây;ADJ
+xanh lơ;ADJ
+xanh xao;ADJ
+xao động;VERB
+xao lãng;VERB
+xao xuyến;VERB
+xào;VERB
+xào xạc;ADJ
+xảo;ADJ
+xảo quyệt;ADJ
+xáo trộn;VERB
+xạo;ADJ
+xát;VERB
+xăm;NOUN,VERB
+xắn;VERB
+xăng;NOUN
+xẵng;ADJ
+xắt;VERB
+xấc;ADJ
+xấc xược;ADJ
+xâm chiếm;VERB
+xâm lược;VERB
+xâm nhập;VERB
+xâm phạm;VERB
+xấp xỉ;ADJ
+xâu;NOUN,VERB
+xâu xé;VERB
+xấu;ADJ
+xấu hổ;VERB,NOUN
+xấu số;ADJ
+xấu xa;ADJ
+xấu xí;ADJ
+xây;VERB
+xây dựng;VERB,ADJ
+xây xẩm;ADJ
+xe bò;NOUN
+xe buýt;NOUN
+xe cộ;NOUN
+xe cứu thương;NOUN
+xe dây;VERB
+xe du lịch;NOUN
+xe đạp;NOUN
+xe điện;NOUN
+xe đò;NOUN
+xe gắn máy;NOUN
+xe tang;NOUN
+Xe tơ;VERB
+xẻ;VERB
+xé;VERB
+xem;VERB
+xem khinh;VERB
+xem xét;VERB
+xen;VERB
+xén;VERB
+xéo;VERB,ADJ
+xẹo;ADJ
+xẹp;VERB
+xét đoán;VERB
+xét hỏi;VERB
+xét xử;VERB
+xê dịch;VERB
+xê xích;VERB,ADJ
+xế;VERB,NOUN
+xếch;ADJ
+xếp;VERB,NOUN
+xếp đặt;VERB
+xếp hàng;VERB
+xi;NOUN,VERB
+xì;VERB
+xì gà;NOUN
+xì xào;VERB
+xỉ;NOUN,VERB
+xí nghiệp;NOUN
+xỉa;VERB
+xích;NOUN,VERB
+xích đạo;NOUN
+xích đu;NOUN
+xích mích;VERB
+xích thằng;NOUN
+xiếc;NOUN
+xiêm y;NOUN
+xiên;VERB,NOUN,ADJ
+xiềng;NOUN,VERB
+xiết;VERB
+xiêu;VERB
+xiêu lòng;VERB
+xiêu vẹo;ADJ
+xin;VERB
+xin lỗi;VERB
+xinê;NOUN
+xinh;ADJ
+xinh đẹp;ADJ
+xịt;VERB,ADJ
+xìu;VERB
+xỉu;VERB
+xíu;ADJ
+xo;VERB,ADJ
+xỏ;VERB
+xó;NOUN
+xoa;VERB,NOUN
+xoã;VERB
+xoá;VERB
+xoài;NOUN
+xoàn;NOUN
+xoang;NOUN
+xoay;VERB
+xoay quanh;VERB
+xoay xở;VERB
+xoáy;VERB,NOUN
+xoăn;ADJ
+xoắn xít;VERB
+xóc;VERB,ADJ,NOUN
+xoè;NOUN,VERB
+xoi;VERB
+xoi mói;VERB
+xóm;NOUN
+xóm giềng;NOUN
+xong;VERB
+xong xuôi;ADJ
+xô;VERB,NOUN,ADJ
+xô bồ;ADJ
+xô đẩy;VERB
+xổ;VERB
+xổ số;NOUN
+xốc;NOUN,VERB
+xốc xếch;ADJ
+xối;NOUN,VERB
+xối xả;ADJ
+xôn xao;ADJ,VERB
+xông;VERB
+xốp;ADJ
+xơ;NOUN,ADJ
+xơ xác;ADJ
+xơi xơi;ADJ
+xới;NOUN,VERB
+xu;NOUN
+xu hướng;NOUN
+xu nịnh;VERB
+xu thế;NOUN
+xu thời;VERB
+xù;ADJ,VERB
+xú uế;ADJ
+xua đuổi;VERB
+xuân;NOUN,ADJ
+xuân đình;NOUN
+xuân huyên;NOUN
+xuân phân;NOUN
+xuân thu;NOUN
+xuất;VERB
+xuất bản;VERB
+xuất cảng;VERB
+xuất chinh;VERB
+xuất chúng;ADJ
+xuất dương;VERB
+xuất gia;VERB
+xuất giá;VERB
+xuất hành;VERB
+xuất hiện;VERB
+xuất phát;VERB
+xuất sắc;ADJ
+xuất thân;VERB
+xuất trình;VERB
+xuất xứ;NOUN
+xúc;VERB
+xúc động;VERB,NOUN
+xúc phạm;VERB
+xúc tiến;VERB
+xúc xích;NOUN
+xúc xiểm;VERB
+xui;VERB,ADJ
+xúm;VERB
+xung khắc;ADJ
+xung phong;VERB
+xung yếu;ADJ
+xuôi;ADJ,VERB
+xuôi chiều;VERB
+xuồng;NOUN
+xuống;VERB
+xuyên;VERB
+xuyên tạc;VERB
+xuyến;NOUN
+xử;VERB
+xử lý;VERB
+xử sự;VERB
+xử thế;VERB
+xử trảm;VERB
+xử trí;VERB
+xử tử;VERB
+xứ;NOUN
+xứ sở;NOUN
+xưa;ADJ
+xưa kia;NOUN
+xức dầu;VERB
+xưng danh;VERB
+xưng hô;VERB
+xưng tội;VERB
+xứng đáng;ADJ
+xước;VERB,ADJ,NOUN
+Xước cảng;NOUN
+xương;NOUN,ADJ
+xương cốt;NOUN
+xương rồng;NOUN
+xương sống;NOUN
+xương sườn;NOUN
+xương xẩu;NOUN,ADJ
+xưởng;NOUN
+xướng;VERB
+xướng danh;VERB
+y;NOUN,PRONN,ADJ
+y học;NOUN
+y khoa;NOUN
+y nguyên;ADJ
+y phục;NOUN
+y sĩ;NOUN
+y tá;NOUN
+y tế;NOUN
+y viện;NOUN
+ỷ;NOUN,VERB
+ý;NOUN
+ý chí;NOUN
+ý định;NOUN
+ý kiến;NOUN
+ý muốn;NOUN
+ý nghĩ;NOUN
+ý nghĩa;NOUN
+ý niệm;NOUN
+ý thức;NOUN,VERB
+ý tưởng;NOUN
+yểm;VERB
+yểm hộ;VERB
+yểm trợ;VERB
+yếm;NOUN
+yếm dãi;NOUN
+yếm thế;ADJ
+yên;NOUN,ADJ
+yên lặng;ADJ
+yên ổn;ADJ
+yên trí;VERB
+yến;NOUN
+yến anh;NOUN
+yến sào;NOUN
+yến tiệc;NOUN
+yêng hùng;NOUN
+yết;VERB
+yết hầu;NOUN
+yết kiến;VERB
+yết thị;VERB
+yêu;NOUN,VERB
+yêu cầu;VERB,NOUN
+yêu chuộng;VERB
+yêu dấu;VERB
+yêu kiều;ADJ
+yêu ma;NOUN
+yêu sách;VERB,NOUN
+yêu thuật;NOUN
+yêu tinh;NOUN
+yểu;ADJ
+yểu điệu;ADJ
+yếu;ADJ
+yếu điểm;NOUN
+yếu đuối;ADJ
+yếu lược;ADJ,NOUN
+yếu nhân;NOUN
+yếu tố;NOUN

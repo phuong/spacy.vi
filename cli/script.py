@@ -149,7 +149,7 @@ def build_word_type_data():
         file_log.write('%s\n' % log)
 
     data = raw_data.split('\n')
-    for i in range(23000, 26000):
+    for i in range(26000, 30000):
         word = data[i]
         counter = i
         proccess_word(word)
