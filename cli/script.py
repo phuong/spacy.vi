@@ -28,6 +28,7 @@ SOURCE_URL = "http://tratu.coviet.vn/hoc-tieng-anh/tu-dien/lac-viet/V-V/%s.html"
 import urllib
 import requests
 from lxml import html
+import regex
 
 NOUN = u'danh từ'
 ADJ = u'tính từ'
@@ -65,15 +66,29 @@ def find_type_of_word(word):
             lemmas.append(LEMMAP[lemma])
     return lemmas
 
-vi_title = u'ÀẢÃÁẠĂẰẲẴẮẶÂẦẤẨẪẬĐÈÉẺẼẸÊỀẾỂỄỆÌÍỈĨỊÒÓỎÕỌỒỐỔỖỘỜỚỞỠỢÙÚỦŨỤỪỨỬỮỰỲÝỶỸỴ'.encode('utf8')
+
+vi_title = u'ÀẢÃÁẠĂẰẲẴẮẶÂẦẤẨẪẬĐÈÉẺẼẸÊỀẾỂỄỆÌÍỈĨỊÒÓỎÕỌỒỐỔỖỘỜỚỞỠỢÙÚỦŨỤỪỨỬỮỰỲÝỶỸỴ'
+vi_title = [x for x in vi_title]
+
+
+def get_first_char(word):
+    chars = regex.findall(r'\X', word, regex.U)
+    return chars[0]
+
 
 def is_prop_noun(word):
+    if not isinstance(word, unicode):
+        word = word.decode('utf8')
     words = word.split()
     word_length = len(words)
     found = 0
     for w in words:
-        if w[0].istitle() or w[0] in vi_title:
+        char = get_first_char(w)
+        if char.istitle():
             found += 1
+        elif char in vi_title:
+            found += 1
+
     if found == word_length:
         return True
     return word_length > 3 and found >= 2
@@ -87,46 +102,59 @@ def normalize_word(word):
 
 
 def build_word_type_data():
+    file_mode = 'a+'
+    counter = 1
     file = open('data/words.txt', 'r')
     raw_data = file.read()
     file.close()
 
     file_lemmas = dict()
-    file_prop_noun = open('data/PRONOUN.txt', 'w')
-    file_undefined = open('data/undefined.txt', 'w')
-    file_lemma = open('data/lemma.txt', 'w')
+    file_prop_noun = open('data/PRONOUN.txt', file_mode)
+    file_undefined = open('data/undefined.txt', file_mode)
+    file_lemma = open('data/lemma.txt', file_mode)
+    file_log = open('data/build_word_type_data.log', file_mode)
 
     def get_file(lemma):
         if lemma not in file_lemmas:
-            file_lemmas[lemma] = open('data/%s.txt' % lemma, 'w')
+            file_lemmas[lemma] = open('data/%s.txt' % lemma, file_mode)
         return file_lemmas[lemma]
 
     def close_files():
         file_prop_noun.close()
         file_undefined.close()
         file_lemma.close()
+        file_log.close()
         for key, file in file_lemmas.items():
             file.close()
 
     def proccess_word(word):
         word = normalize_word(word)
-        print("Working with %s " % word)
+        logs = []
         if is_prop_noun(word):
             file_prop_noun.write('%s\n' % word)
+            logs.append('is_pro_noun')
         else:
             lemmas = find_type_of_word(word)
+            joined_lemma = ','.join(lemmas)
+            logs.append(joined_lemma)
             if lemmas:
                 for lemma in lemmas:
                     get_file(lemma).write('%s\n' % word)
-                file_lemma.write('%s;%s\n' % (word, ','.join(lemmas)))
+                file_lemma.write('%s;%s\n' % (word, joined_lemma))
             else:
+                logs.append('undefined')
                 file_undefined.write('%s\n' % word)
+        log = '%s__%s__%s' % (counter, word, ' '.join(logs))
+        print(log)
+        file_log.write('%s\n' % log)
 
     data = raw_data.split('\n')
-    for i in range(2030, 2080):
+    for i in range(23000, 26000):
         word = data[i]
+        counter = i
         proccess_word(word)
 
     close_files()
+
 
 build_word_type_data()

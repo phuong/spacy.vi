@@ -40,4 +40,4 @@ typing==3.5.3.0
 ujson==1.35
 Werkzeug==0.12.1
 wrapt==1.10.10
-
+regex
