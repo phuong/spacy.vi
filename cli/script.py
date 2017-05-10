@@ -54,9 +54,7 @@ LEMMAP = {
 
 
 def find_type_of_word(word):
-    if isinstance(word, str):
-        word = unicode(word, 'utf-8')
-    url = SOURCE_URL % urllib.quote(word.encode('utf8'))
+    url = SOURCE_URL % urllib.quote(word)
     req = requests.get(url)
     tree = html.fromstring(req.content)
     ub = tree.xpath('//div[@class="ub"]')
@@ -67,34 +65,40 @@ def find_type_of_word(word):
             lemmas.append(LEMMAP[lemma])
     return lemmas
 
+vi_title = u'ÀẢÃÁẠĂẰẲẴẮẶÂẦẤẨẪẬĐÈÉẺẼẸÊỀẾỂỄỆÌÍỈĨỊÒÓỎÕỌỒỐỔỖỘỜỚỞỠỢÙÚỦŨỤỪỨỬỮỰỲÝỶỸỴ'.encode('utf8')
 
 def is_prop_noun(word):
     words = word.split()
     word_length = len(words)
     found = 0
     for w in words:
-        if w[0].istitle():
+        if w[0].istitle() or w[0] in vi_title:
             found += 1
     if found == word_length:
         return True
     return word_length > 3 and found >= 2
 
 
+def normalize_word(word):
+    if isinstance(word, str):
+        word = unicode(word, 'utf-8')
+    word = word.encode('utf8')
+    return word
+
+
 def build_word_type_data():
     file = open('data/words.txt', 'r')
     raw_data = file.read()
     file.close()
-    counter = 0
-    max = 450
 
     file_lemmas = dict()
-    file_prop_noun = open('data/processed/propnoun.txt', 'w')
-    file_undefined = open('data/processed/undefined.txt', 'w')
-    file_lemma = open('data/processed/lemma.txt', 'w')
+    file_prop_noun = open('data/PRONOUN.txt', 'w')
+    file_undefined = open('data/undefined.txt', 'w')
+    file_lemma = open('data/lemma.txt', 'w')
 
     def get_file(lemma):
         if lemma not in file_lemmas:
-            file_lemmas[lemma] = open('data/processed/%s.txt' % lemma, 'w')
+            file_lemmas[lemma] = open('data/%s.txt' % lemma, 'w')
         return file_lemmas[lemma]
 
     def close_files():
@@ -104,10 +108,9 @@ def build_word_type_data():
         for key, file in file_lemmas.items():
             file.close()
 
-    for word in raw_data.split('\n'):
-        counter += 1
-        if counter == max:
-            break
+    def proccess_word(word):
+        word = normalize_word(word)
+        print("Working with %s " % word)
         if is_prop_noun(word):
             file_prop_noun.write('%s\n' % word)
         else:
@@ -119,7 +122,11 @@ def build_word_type_data():
             else:
                 file_undefined.write('%s\n' % word)
 
-    close_files()
+    data = raw_data.split('\n')
+    for i in range(2030, 2080):
+        word = data[i]
+        proccess_word(word)
 
+    close_files()
 
 build_word_type_data()
